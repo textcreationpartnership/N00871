@@ -111,8 +111,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:001049_0000_0FAEF4F40FC01AC0"/>
-            <pb facs="tcp:001049_0001_0FAEF4F4C797C578"/>
+            <pb facs="unknown:001049_0000_0FAEF4F40FC01AC0"/>
+            <pb facs="unknown:001049_0001_0FAEF4F4C797C578"/>
             <p>
                <figure>
                   <p>INSTRUCTIOns For RIGHT-SPELLING, and PLAIN DIRECTIONS FOR READING AND WRITING TRUE ENGLISH</p>
@@ -124,7 +124,7 @@
             </p>
          </div>
          <div type="table_of_contents">
-            <pb facs="tcp:001049_0002_0FAEF4F58A51F3D8"/>
+            <pb facs="unknown:001049_0002_0FAEF4F58A51F3D8"/>
             <head>THE TABLE.</head>
             <list>
                <item>
@@ -215,7 +215,7 @@
       </front>
       <body>
          <div type="abecedary">
-            <pb n="3" facs="tcp:001049_0003_0FAEF4F64E2A7318"/>
+            <pb n="3" facs="unknown:001049_0003_0FAEF4F64E2A7318"/>
             <p>A a b c d e f g h i j k l m n o p q r s s t u v w x y z. ct ff ss st</p>
             <div type="part">
                <head>The Roman small Letters.</head>
@@ -239,7 +239,7 @@
                <p>a e i o u.</p>
             </div>
             <div type="part">
-               <pb n="4" facs="tcp:001049_0004_0FAEF4F765120D20"/>
+               <pb n="4" facs="unknown:001049_0004_0FAEF4F765120D20"/>
                <head>Words of one Syllable.</head>
                <p>AB ac ad af ag ak al am an ap ar at ax az.</p>
                <p>Ba ca da fa ga ha ja ka la ma na pa ra sa ta va qua wa ya xa za.</p>
@@ -259,7 +259,7 @@
                      </gap> ther-ly búr-dem-son burst-ing.</p>
                </div>
                <div n="C" type="section">
-                  <pb n="5" facs="tcp:001049_0005_0FAEF4FA7397D320"/>
+                  <pb n="5" facs="unknown:001049_0005_0FAEF4FA7397D320"/>
                   <head>C</head>
                   <p>Ca-la-mi-ty C<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -276,7 +276,7 @@
                <div n="F" type="section">
                   <head>F</head>
                   <p>Faith-ful fal-low fal-si-fy-ing fa-shi-on-ed fa-thom fa-vour-a-ble fea-ther-ed fel-low-ship fer-vent-ly few-el fierce-ness fil-thi-ness fi-nish
-<pb n="6" facs="tcp:001049_0006_0FAEF4FC4F308108"/>
+<pb n="6" facs="unknown:001049_0006_0FAEF4FC4F308108"/>
 Fir-ma-ment flat-ter-eth for-bear-ance for-ci-ble.</p>
                </div>
                <div n="G" type="section">
@@ -308,7 +308,7 @@ Fir-ma-ment flat-ter-eth for-bear-ance for-ci-ble.</p>
                   <p>La bour ing, lurk ing, lance, lanch ed, lan guage, lan guish, lant horns, la sci vi ous ness, la tin, lat tels, laugh ed, la vish, leaves league ledges, lea sure, leo pard, lewd ness, Lieu te nant, li quor, let ters, loath some, lodge, loss lost.</p>
                </div>
                <div n="M" type="section">
-                  <pb n="7" facs="tcp:001049_0007_0FAEF4FD463BEAB0"/>
+                  <pb n="7" facs="unknown:001049_0007_0FAEF4FD463BEAB0"/>
                   <head>M</head>
                   <p>Ma-gi-ci-an Ma-gi-strate Mai-den maim-ed man-ger main-te-nance mar-ri-age mer-chan-dize mar-ve-lous-ly Mer-chant men-stru-ous mil-li-ons mis-chief mis-chie<g ref="char:EOLunhyphen"/>vous Mar-ri-ners Moon mor-ga-ged Mouls mu-ni-ti-on Myrrh.</p>
                </div>
@@ -323,7 +323,7 @@ Fir-ma-ment flat-ter-eth for-bear-ance for-ci-ble.</p>
                <div n="P" type="section">
                   <head>P</head>
                   <p>Pa-ci-fi-eth pain-ful-ness pale-ness par-ta-ker par-ti-a-li-ty par-ti-cu-lar-ly par-ti-ti-on Par-tridge pas-sage Past-or pa-sture pat-tern pa-ti-ence pa-tri-mo-ny peace-a-bly pe-de-grees pen-knife pe-nu-ry pe-ril-ous pe-rished per-ni-ci-ous per-pe-tu-al pe-sti-lent Phy-lo-so-phers Phy-si-ci-an
-<pb n="8" facs="tcp:001049_0008_0FAEF4FDCD8647C0"/>
+<pb n="8" facs="unknown:001049_0008_0FAEF4FDCD8647C0"/>
 Pi ge ons, Pil grims, Plague, Plai ster, plea sant ness, Ploug, plow ed, plunge, po pu lous, pos sess, pos ses sor, po<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> sherd, pot tage, pre de sti na ted, pre he mi nence.</p>
@@ -343,7 +343,7 @@ Pi ge ons, Pil grims, Plague, Plai ster, plea sant ness, Ploug, plow ed, plunge,
                      </gap>er, Soul di er, sprung, spun, square, Sto ma cher, strait way, strai ten ed, stroak, stur dy, sub ject, suc ceed, suc cour ed, suc ked, su ste nance, swol len, swoon ed.</p>
                </div>
                <div n="T" type="section">
-                  <pb n="9" facs="tcp:001049_0009_0FAEF4FE8C0A90B8"/>
+                  <pb n="9" facs="unknown:001049_0009_0FAEF4FE8C0A90B8"/>
                   <head>T</head>
                   <p>Tack ling, Tail, Tale bear er, Tan ne<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -373,7 +373,7 @@ Pi ge ons, Pil grims, Plague, Plai ster, plea sant ness, Ploug, plow ed, plunge,
                </div>
             </div>
             <div type="part">
-               <pb n="10" facs="tcp:001049_0010_0FAEF4FF5A572DE8"/>
+               <pb n="10" facs="unknown:001049_0010_0FAEF4FF5A572DE8"/>
                <head>The <hi>Childs</hi> Lesson.</head>
                <p>CHRIST is the <hi>Truth. Christ</hi> is the <hi>Light. Christ</hi> is my <hi>Way. Christ</hi> is my <hi>Life. Christ</hi> is my <hi>Saviour. Christ</hi> is my hope of <hi>Glory.</hi>
                </p>
@@ -389,7 +389,7 @@ Pi ge ons, Pil grims, Plague, Plai ster, plea sant ness, Ploug, plow ed, plunge,
                <p>JEZEBEL was a bad <hi>Woman,</hi> who kil<g ref="char:EOLhyphen"/>led the <hi>Iust,</hi> and turned against the <hi>Lord's Prophets,</hi> with her attired <hi>Head</hi> and painted <hi>Face,</hi> peeping out of the <hi>Window.</hi>
                </p>
                <p>CHRIST I must feel within me, who
-<pb n="11" facs="tcp:001049_0011_0FAEF5000C95E4B0"/>
+<pb n="11" facs="unknown:001049_0011_0FAEF5000C95E4B0"/>
 is my <hi>Life</hi> and my <hi>Light,</hi> and the Truth; and that is <hi>God</hi> that sheweth me my <hi>Thoughts</hi> and <hi>Imaginations</hi> of my <hi>Heart</hi>; and that is the <hi>Lord God</hi> that doth search my <hi>Heart.</hi>
                </p>
                <p>It is the <hi>Spirit</hi> of <hi>Truth</hi> that doth lead into all <hi>Truth.</hi>
@@ -409,7 +409,7 @@ is my <hi>Life</hi> and my <hi>Light,</hi> and the Truth; and that is <hi>God</h
                <p>The <hi>Gospel</hi> is the <hi>Power</hi> of <hi>God.</hi>
                </p>
                <p>The <hi>Cross</hi> of <hi>Christ</hi> is the <hi>Power</hi> of <hi>God,</hi> which crucifieth from the <hi>State</hi> of ADAM and EVE in the <hi>Fall,</hi> in that <hi>Power</hi> is
-<pb n="12" facs="tcp:001049_0012_0FAEF501273FC290"/>
+<pb n="12" facs="unknown:001049_0012_0FAEF501273FC290"/>
 the <hi>Glorying,</hi> an <hi>Everlasting Glorying,</hi> And this is above the <hi>Fleshly Glorying</hi> of ADAM and EVE in the <hi>Fall,</hi> with his <hi>Sons</hi> and <hi>Daughters.</hi>
                </p>
                <p>The <hi>Church</hi> is in <hi>God</hi> the <hi>Father</hi> of <hi>Christ,</hi> and not a <hi>Steeple-house</hi>; and that is the <hi>Spi<g ref="char:EOLhyphen"/>rit</hi> that mortifies from my <hi>Sin.</hi>
@@ -420,7 +420,7 @@ the <hi>Glorying,</hi> an <hi>Everlasting Glorying,</hi> And this is above the <
                <p>In the beginning was the <hi>Word.</hi>
                </p>
                <p>
-                  <pb n="13" facs="tcp:001049_0013_0FAEF5019BD44C50"/>Since the beginning were the <hi>Words</hi>; and since the beginning was <hi>Babel,</hi> which is the beginning of <hi>Tongues,</hi> which is the <hi>Priests Original,</hi> but the <hi>Saints Original</hi> is the <hi>Word</hi> before <hi>Babe</hi> was, and that is the <hi>Original,</hi> and make <hi>Divine,</hi> and not the <hi>Tongues</hi> that began at <hi>Babel.</hi>
+                  <pb n="13" facs="unknown:001049_0013_0FAEF5019BD44C50"/>Since the beginning were the <hi>Words</hi>; and since the beginning was <hi>Babel,</hi> which is the beginning of <hi>Tongues,</hi> which is the <hi>Priests Original,</hi> but the <hi>Saints Original</hi> is the <hi>Word</hi> before <hi>Babe</hi> was, and that is the <hi>Original,</hi> and make <hi>Divine,</hi> and not the <hi>Tongues</hi> that began at <hi>Babel.</hi>
                </p>
                <p>And it cost the second <hi>Adam</hi> his <hi>Blood,</hi> to purchase me out of the state of <hi>Adam</hi> and <hi>Eve</hi> in the <hi>Fall,</hi> to set me in the state that he was in before he fell, to that which is a blessed state, out of the cursed state, and not only to the blessed state that <hi>Adam</hi> and <hi>Eve</hi> were in before they fell; but to <hi>Christ</hi> that never fell, to his <hi>Stature.</hi>
                </p>
@@ -433,7 +433,7 @@ the <hi>Glorying,</hi> an <hi>Everlasting Glorying,</hi> And this is above the <
                <p>And the <hi>Image</hi> of <hi>God</hi> is <hi>Righteousness</hi> and true <hi>Holiness.</hi>
                </p>
                <p>In six <hi>Dayes</hi> the <hi>Lord</hi> made the <hi>Heavens</hi>
-                  <pb n="14" facs="tcp:001049_0014_0FAEF504ACC0E4D8"/>
+                  <pb n="14" facs="unknown:001049_0014_0FAEF504ACC0E4D8"/>
 and the <hi>Earth,</hi> and all things therein<g ref="char:punc">▪</g> and the sixth <hi>Day</hi> made <hi>Man</hi> and <hi>Woman,</hi> and bad him have <hi>Dominion</hi> over the <hi>Works</hi> of his <hi>Hands.</hi>
                </p>
                <p>CHRIST is my <hi>Foundation.</hi>
@@ -462,7 +462,7 @@ and the <hi>Earth,</hi> and all things therein<g ref="char:punc">▪</g> and the
                </p>
             </div>
             <div type="part">
-               <pb n="15" facs="tcp:001049_0015_0FAEF505A63E0618"/>
+               <pb n="15" facs="unknown:001049_0015_0FAEF505A63E0618"/>
                <head>Proper Names in Scripture divided onto Sylla<g ref="char:EOLhyphen"/>bles, and the Significations of them in <hi>Eng<g ref="char:EOLhyphen"/>lish;</hi> together with other memorable <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>assa<g ref="char:EOLhyphen"/>ges mentioned in Scripture, necessary and delightful for Children to Read and Learn.</head>
@@ -476,7 +476,7 @@ and the <hi>Earth,</hi> and all things therein<g ref="char:punc">▪</g> and the
                   <hi>Cain</hi> was a Husband-man, and being dis<g ref="char:EOLhyphen"/>pleased that his Offerings were reproved, and not his Brother <hi>Abel</hi>'s although he was rebu<g ref="char:EOLhyphen"/>ked of God for his <gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>vy) slew his Brother,
-<pb n="16" facs="tcp:001049_0016_0FAEF5076ACC3510"/>
+<pb n="16" facs="unknown:001049_0016_0FAEF5076ACC3510"/>
 and offended seven fold thereby; after that, he was made a Fugitive, and a Vagabond u<g ref="char:EOLhyphen"/>pon the Earth, for he was accursed of God; his Sin was sevenfold; for first, <hi>He did not rightly divide</hi>; secondly, <hi>He envied his Bro<g ref="char:EOLhyphen"/>ther</hi>; thirdly, <hi>He dealt sabtilly</hi>; fourthly, <hi>He killed him</hi>; fifthly, <hi>He stubbornly denied it</hi>; sixthly, <hi>He despaired</hi>; seventhly, <hi>Being Condemned, he Repented not.</hi>
                </p>
                <p>This <hi>Cain</hi> was the first builder of the earth<g ref="char:EOLunhyphen"/>ly City, in the which he bestowed his Chil<g ref="char:EOLunhyphen"/>dren for fear, because he used Violence, <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -500,7 +500,7 @@ and offended seven fold thereby; after that, he was made a Fugitive, and a Vagab
                   <g ref="char:punc">▪</g> after he had lived one hundred eighty and two years, he begat a Son, and called him <hi>No<g ref="char:EOLunhyphen"/>ah,</hi> which signifies a <hi>C<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
                      </gap>sing</hi> or <hi>Rest</hi>; and <hi>Lamech</hi> said, <hi>This same shall consort us con<g ref="char:EOLunhyphen"/>cerning our Work, and Toil of our Hands, because of the Ground the Lord hath cursed.</hi> Noah <hi>was a just man, and perfect in his Ge<g ref="char:EOLunhyphen"/>neration, and walked with God, and was a Preacher of Righteousness</hi>; he was commanded
-<pb n="17" facs="tcp:001049_0017_0FAEF50788D425A8"/>
+<pb n="17" facs="unknown:001049_0017_0FAEF50788D425A8"/>
 of God to make an Ark, that he and his Fa<g ref="char:EOLhyphen"/>mily should enter into it, for their preserva<g ref="char:EOLhyphen"/>tion, <hi>Gen.</hi> 6.</p>
                <p>
                   <hi>Noah,</hi> with two of a sort of every Creature, Male and Female, were shut into the Ark, and the World was drowned, <hi>Gen.</hi> 7.</p>
@@ -512,7 +512,7 @@ of God to make an Ark, that he and his Fa<g ref="char:EOLhyphen"/>mily should en
                   <hi>A-bram</hi> signifies, <hi>an high-Father</hi>: his name was changed <hi>Gen.</hi> 17. from <hi>Abram</hi> to <hi>A-bra-ham,</hi> which signifies, <hi>a Father of</hi> a <hi>great Multi<g ref="char:EOLhyphen"/>tude</hi>: he was the Son of <hi>Terah; Sarah</hi> was his Wife: He went out of his Native Coun<g ref="char:EOLhyphen"/>try at God's Commandment; God promised him and his Seed the Land of <hi>Canaan</hi>; he tra<g ref="char:EOLhyphen"/>velled into <hi>Aegypt,</hi> &amp; when he returned from thence he was very Rich; to avoid s<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>rife he part<g ref="char:EOLhyphen"/>ed company with <hi>Lot,</hi> his Nephew; he delive<g ref="char:EOLhyphen"/>red <hi>Lot</hi> out of Captivity; refused to be en<g ref="char:EOLhyphen"/>riched
-<pb n="18" facs="tcp:001049_0018_0FAEF5084A5D7140"/>
+<pb n="18" facs="unknown:001049_0018_0FAEF5084A5D7140"/>
 by the King of <hi>Sodom,</hi> he instr<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>cted his Family in Righteousness; God tried his Faith by willing him to offer up his only Son <hi>Isaac.</hi>
@@ -556,7 +556,7 @@ by the King of <hi>Sodom,</hi> he instr<gap reason="illegible" resp="#PDCC" exte
                      </gap>
                   </hi>
                   <g ref="char:punc">▪</g> she was Daughter
-<pb n="19" facs="tcp:001049_0019_0FAEF5090B4208C8"/>
+<pb n="19" facs="unknown:001049_0019_0FAEF5090B4208C8"/>
 to <hi>Be th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>-el,</hi> was given in Marri<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -580,7 +580,7 @@ to <hi>Be th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <hi>I-sra-el</hi> signifies, <hi>a Prince of God, or prevai<g ref="char:EOLhyphen"/>ling with God.</hi>
                </p>
                <p>
-                  <pb n="20" facs="tcp:001049_0020_0FAEF509CE970410"/>
+                  <pb n="20" facs="unknown:001049_0020_0FAEF509CE970410"/>
                   <hi>Io-seph</hi> signifies <hi>encreasing</hi>; one of the Sons of <hi>Iacob,</hi> he was beloved of his Father and hated of his Brethren; he was cast into a Pit by his Brethren, and afterwards sold to the <hi>Ishmaelites,</hi> and afterwards to <hi>Potiphar,</hi> whose house was blessed for <hi>Ioseph</hi>'s sake; <hi>Ioseph</hi> was made Ruler thereof, he was fair and well favoured, and he interpreted <hi>Phara<g ref="char:EOLhyphen"/>oh</hi>'s Dreams, and was made Ruler over all <hi>Aegypt</hi> under <hi>Pharaoh.</hi> He sold Corn into all Countries in the Famine-time; he spoke roughly to his Brethren at first when they came to buy Corn, and put them in Ward, but after disclosed himself to them, and com<g ref="char:EOLhyphen"/>forted them, and sent for his Father into <hi>Aegypt.</hi>
                </p>
                <p>
@@ -598,7 +598,7 @@ to <hi>Be th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <hi>Moses</hi> and <hi>Aaron</hi> told <hi>Pharaoh,</hi> saying Thus saith the Lord God of <hi>Israel, Let my People go</hi>; and <hi>Pharaoh</hi> said. <hi>Who is the Lord, that I should obey his Voice.</hi>
                </p>
                <p>
-                  <pb n="21" facs="tcp:001049_0021_0FAEF50A8D4C8A80"/>God plagued <hi>Pharaoh</hi> with 10 Plagues be<g ref="char:EOLunhyphen"/>cause he would not let the Children of <hi>Israel</hi> go free; 1. <hi>Of Bloudy waters.</hi> 2. <hi>Of Frogs.</hi> 3. <hi>Of Lice.</hi> 4. <hi>Of Flies.</hi> 5. <hi>Of Murrain.</hi> 6. of <hi>Scabs</hi> 7. <hi>Of Hail.</hi> 8. <hi>Of Grashoppers.</hi> 9. <hi>Of Darkness.</hi> 10. <hi>Death of their First born</hi> Ex. 7 8 9 10.</p>
+                  <pb n="21" facs="unknown:001049_0021_0FAEF50A8D4C8A80"/>God plagued <hi>Pharaoh</hi> with 10 Plagues be<g ref="char:EOLunhyphen"/>cause he would not let the Children of <hi>Israel</hi> go free; 1. <hi>Of Bloudy waters.</hi> 2. <hi>Of Frogs.</hi> 3. <hi>Of Lice.</hi> 4. <hi>Of Flies.</hi> 5. <hi>Of Murrain.</hi> 6. of <hi>Scabs</hi> 7. <hi>Of Hail.</hi> 8. <hi>Of Grashoppers.</hi> 9. <hi>Of Darkness.</hi> 10. <hi>Death of their First born</hi> Ex. 7 8 9 10.</p>
                <p>The <hi>Isralites</hi> departed out of <hi>Egypt</hi> and spoiled the <hi>Egyptians</hi> Ex. 12.</p>
                <p>The <hi>Isralites</hi> were led by a fiery and clou<g ref="char:EOLhyphen"/>dy Pillar, <hi>Ex.</hi> 13.</p>
                <p>
@@ -613,7 +613,7 @@ to <hi>Be th<gap reason="illegible" resp="#PDCC" extent="1 letter">
 <hi>Aa-ron</hi> signifies <hi>a Teacher</hi>; when <hi>Aa- ron</hi> went in before the Lord, he was to put on the Breast-plate of Judgment, the <hi>Urim</hi> and the <hi>Thummim. Urim</hi> signifies <hi>Light,</hi> and <hi>Thummim</hi> signifies <hi>Truth</hi> and <hi>Perfection</hi>; so Light, Truth, and perfection were to be upon his heart.</p>
                <p>
                   <hi>Io shu ah</hi> signifies, the same with <hi>Iesus</hi>
-                  <pb n="22" facs="tcp:001049_0022_0FAEF50B66D81780"/>
+                  <pb n="22" facs="unknown:001049_0022_0FAEF50B66D81780"/>
 which is a Saviour; he succeeded <hi>Moses</hi>
                   <g ref="char:punc">▪</g> he humbled himself before God <hi>Iosh.</hi> 7. in overcame many Kings and Countries, he left nothing undone that <hi>Moses</hi> had commanded, he and all his House served the Lord.</p>
                <p>
@@ -633,7 +633,7 @@ which is a Saviour; he succeeded <hi>Moses</hi>
                   <hi>Sa-mu-el</hi> signifies, <hi>heard of God</hi>; he was offered to God by his Mother he was in fa<g ref="char:EOLhyphen"/>vour both with the Lord, and also with Men; God called him thrice, and revealed his Will to him, and made him a Prophet; he Judg<g ref="char:EOLhyphen"/>ed <hi>Israel</hi> with diligence, all his dayes the <hi>Philistines</hi> were brought under; when he died he was bewailed greatly.</p>
                <p>
                   <hi>E-li-jah</hi> signifies, <hi>God the Lord</hi>; he was a Prophet, who foretold the Famine to come a<g ref="char:EOLhyphen"/>mong the <hi>Israelites</hi>; he was fed by Ravens; the Lord sent him to <hi>A-hab,</hi> whom he boldly
-<pb n="23" facs="tcp:001049_0023_0FAEF50C19600090"/>
+<pb n="23" facs="unknown:001049_0023_0FAEF50C19600090"/>
 reproved for following <hi>Ba-<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>-lim</hi>; by Prayer he obtained Rain, he was persecuted by <hi>Ie-za-bel,</hi> he fled from her, and being almost famished, he was fed by an Angel, in the strength or which Meat he travelled fourty dayes and forty nights, he afterwards to<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -652,7 +652,7 @@ reproved for following <hi>Ba-<gap reason="illegible" resp="#PDCC" extent="1 let
                   <hi>Da-vid</hi> signifies, <hi>beloved,</hi> he was a ruddy man, and withal of a beautiful Countenance, and goodly to look to, <hi>Samuel</hi> anointed him King, yet afterwards he fed his Fathers Sheep, slew the Gyant <hi>Goliah,</hi> and brought two hundred of tire fore skins of the <hi>Philistins</hi> to <hi>Saul<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>:</hi>
-                  <pb n="24" facs="tcp:001049_0024_0FAEF50FE1F1F100"/>
+                  <pb n="24" facs="unknown:001049_0024_0FAEF50FE1F1F100"/>
 God was with <hi>David,</hi> and therefore <hi>Soul</hi> fear<g ref="char:EOLhyphen"/>ed him, and commanded that he should be slain; It was said of <hi>David,</hi> his <hi>Kingdom abi<g ref="char:EOLhyphen"/>deth forever</hi>; he followed the Lord with all his heart, save only in the matter of <hi>Uriah.</hi>
                </p>
                <p>
@@ -668,7 +668,7 @@ God was with <hi>David,</hi> and therefore <hi>Soul</hi> fear<g ref="char:EOLhyp
                   </gap>ks; he was at an<g ref="char:EOLhyphen"/>other time taken by the Priests, and accused before the Governours, and as he was going from <hi>Ierusalem</hi> into the Land of <hi>Benjamin,</hi> he was taken by an Officer, and had before the Princes, who smote him, and committed him to Prison, where he lay in a Du<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>geon a long time, but at last was delivered by <hi>Zede<g ref="char:EOLhyphen"/>kiah</hi> the King, out of that place; and the King commanded they should put him into the Court of the Prison, and daily to give him a piece of Bread: but the Princes desired the King that he might be put to death, for
-<pb n="25" facs="tcp:001049_0025_0FAEF511348B5310"/>
+<pb n="25" facs="unknown:001049_0025_0FAEF511348B5310"/>
 that he prophesied, <hi>That the City should f<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>re<g ref="char:EOLhyphen"/>ly be given into the hands of the King of</hi> Babel<hi>'s Army:</hi> Then the King said, <hi>He is in your hands, for the King can deny you nothing:</hi> So they took <hi>Ieremiah</hi> and let him down with Cords into a Dungeon, where there was no water but mi<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -688,20 +688,20 @@ that he prophesied, <hi>That the City should f<gap reason="illegible" resp="#PDC
                   <hi>Da ni el,</hi> signifies, <hi>Iudgment of God,</hi> a Prophets Name; he would not defile himself with the Kings Meat; he declar'd to Ne-bu-<gap reason="illegible" resp="#PDCC" extent="3 letters">
                      <desc>•••</desc>
                   </gap>-ne-zar his Dream; wherefore he was ad<g ref="char:EOLhyphen"/>vanc'd
-<pb n="26" facs="tcp:001049_0026_0FAEF511463EE468"/>
+<pb n="26" facs="unknown:001049_0026_0FAEF511463EE468"/>
 by the King unto great <hi>dignity</hi>; he foretold <hi>Bel-sha zer,</hi> That he should be de<g ref="char:EOLhyphen"/>prived of his Kingdom: <hi>Daniel</hi> was made the third Ruler of the Kingdom, because the Spirit of the Lord was excellent in him; wherefore the Rulers and Governours fought occasions against him, but they could find no fault; for he was faithful to the Lord; so they consulted together, and got <hi>Darius</hi> the King to make a Decree, That whosoever should ask a Petition of any (God or Man) for thirty days, save of the King, he should be cast into the Den of Lions; but <hi>Daniel</hi> kneeled on his Knees, and prayed to, and praised his God in his Chamber, his Window being open, as he used to do aforetime, wherefore they accused him to the King, for breaking the Decree for which he was cast in<g ref="char:EOLhyphen"/>to the Lions Den, and a <gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>one was laid there<g ref="char:EOLhyphen"/>on, and the King sealed it with his Signet, that the purpose might not be changed con<g ref="char:EOLhyphen"/>cerning <hi>Daniel</hi>; then the King went unto his Palace, and remained <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>asting, neither were the Instruments of Musick brought before him, and his sleep went from him: Then the King arose early, and went in all haste unto the Den of Lions, and when he came to the Den, he cried with a Lamentable voice unto <hi>Daniel</hi>; and the King spake and said to <hi>Daniel, O</hi>! Daniel, <hi>the Servant of the Living God, Is not thy God (whom thou al<g ref="char:EOLhyphen"/>wayes
-<pb n="27" facs="tcp:001049_0027_0FAEF51211522C70"/>
+<pb n="27" facs="unknown:001049_0027_0FAEF51211522C70"/>
 servest) able to deliver thee from the Li<g ref="char:EOLhyphen"/>ons?</hi> Then said <hi>Daniel</hi> unto the King, <hi>O! King, live forever, My God hath sent his Angel, and hath shut the Lions Mouthes, that they have not hurt me; for my Iustice was found out before him, and unto thee O! King, have I done no hurt</hi>: Then was the King ex<g ref="char:EOLhyphen"/>ceeding glad for him, and commanded that they should take <hi>Daniel</hi> out of the Den, so <hi>Daniel</hi> was brought out of the Den, and no manner of hurt was found upon him, because he believed in his God: And by the Com<g ref="char:EOLhyphen"/>mandment of the King, those Men that had accused <hi>Daniel,</hi> were brought, and were cast into the Den of Lions, even they, their Chil<g ref="char:EOLhyphen"/>dren and Wives; &amp; the Lions had the mastery of them, and brake their Bones in pieces be<g ref="char:EOLhyphen"/>fore they came at the ground of the Den. This <hi>Daniel</hi> also delivered <hi>Susanna</hi> from the two wicked Judges; he destroyed <hi>Bell</hi> and his Temple, and slew the <hi>Dragon</hi> which they Worshipped.</p>
                <p>
                   <hi>Ne-bu chad ne-zar,</hi> signifies, <hi>the mourning of the Generation, or w<gap reason="illegible" resp="#PDCC" extent="3 letters">
                         <desc>•••</desc>
                      </gap>ing of Iudgment</hi>; he was King of <hi>Babel</hi>: he conquered <hi>Egypt,</hi> and destroyed <hi>Ierusalem</hi>: he erected an Image of Gold, and commanded it should be honour<g ref="char:EOLhyphen"/>ed; and decreed, <hi>That whosoever refased to fall down to the said Image; should be cast into a hot fiery Furnace</hi> he dwelt seven years a<g ref="char:EOLhyphen"/>mongst wild Beasts.</p>
                <p>
-                  <pb n="28" facs="tcp:001049_0028_0FAEF512E3313378"/>The three Children were cast into the fiery Furnace, for not worshipping the Image; but God delivered them out of the Furnace.</p>
+                  <pb n="28" facs="unknown:001049_0028_0FAEF512E3313378"/>The three Children were cast into the fiery Furnace, for not worshipping the Image; but God delivered them out of the Furnace.</p>
                <p>
                   <hi>Jo-si-ah</hi>
                   <g ref="char:punc">▪</g> signifies <hi>The Fire or Burning of the Lord,</hi> the Son of <hi>Zephaniah; Iddo</hi>
@@ -717,7 +717,7 @@ servest) able to deliver thee from the Li<g ref="char:EOLhyphen"/>ons?</hi> Then
                   <hi>Mat-thew,</hi> signifies, <hi>Given or a Reward,</hi> he was an Apostle called by Christ,</p>
                <p>
                   <hi>Je-sus,</hi> signifies, <hi>A Saviour,</hi> or <hi>The Lord a Saviour,</hi> the Son of God, a Voice from Heaven said unto him, <hi>Thou art my beloved Son, in whom I am well pleased,</hi> he came of the Seed of <hi>David,</hi> whose Kingdom endureth forever: <hi>Christ</hi> signifies <hi>Anointed,</hi> at the Age of twelve years, Jesus disputed with the Doct<g ref="char:EOLhyphen"/>ors, and th People were astonished at his Wisdom, yet many would not believe he was the Christ, because he descended of so low Parentage, and said, <hi>Is not this the Carpen<g ref="char:EOLhyphen"/>ter's Son?</hi> Great Multitudes followed him, and he healed many diseases, his coming and Preaching was in great humility, he was Mocked, Persecuted, and put to Death by the <hi>Jews,</hi> the chief priests perswaded the Multitude to ask of <hi>Pilate,</hi> that Christ might be put to Death; after his death they perse<g ref="char:EOLhyphen"/>cuted
-<pb n="29" facs="tcp:001049_0029_0FAEF51393E955F8"/>
+<pb n="29" facs="unknown:001049_0029_0FAEF51393E955F8"/>
 his Apostles, and imprisoned <hi>Peter</hi> and <hi>John,</hi> and commanded they should preach no more in the Name of Jesus, and also Stoned <hi>Stephen</hi> to death. And King <hi>Herod</hi> persecuted the <hi>Christians,</hi> Killed <hi>James,</hi> the Brother of <hi>John</hi> with the Sword, and because he saw it pleased the <hi>Jews</hi> he Imprisoned <hi>Peter</hi> also.</p>
                <p>
                   <hi>Paul,</hi> signifies, <hi>Marvel</hi> or <hi>marvelously,</hi> he was an Apostle of Christ, he was marve<g ref="char:EOLhyphen"/>lously converted from being a Persecutor of the Church of Christ to be an Apostle, and an elect Vessel of God.</p>
@@ -743,7 +743,7 @@ his Apostles, and imprisoned <hi>Peter</hi> and <hi>John,</hi> and commanded the
                </p>
             </div>
             <div type="part">
-               <pb n="30" facs="tcp:001049_0030_0FAEF514907351A8"/>
+               <pb n="30" facs="unknown:001049_0030_0FAEF514907351A8"/>
                <head>The reason of the Names of the Books of <hi>Mo<g ref="char:EOLhyphen"/>ses,</hi> and other Books.</head>
                <p>THE <hi>Hebrews</hi> usually named their Books from some of the first Words in the be<g ref="char:EOLhyphen"/>ginning of each: As the first they called <hi>Be-re-shith,</hi> that is, <hi>In the Beginning,</hi> the first word of that Book.</p>
                <p>The second they called <hi>Ve-le-she-meth,</hi> which signifies, <hi>Now these are the Names.</hi>
@@ -760,7 +760,7 @@ his Apostles, and imprisoned <hi>Peter</hi> and <hi>John,</hi> and commanded the
                <p>The fourth <hi>Numbers,</hi> because in the begin<g ref="char:EOLhyphen"/>ning thereof is the sum of the Children of <hi>Is<g ref="char:EOLhyphen"/>rael.</hi>
                </p>
                <p>
-                  <pb n="31" facs="tcp:001049_0031_0FAEF51583871B50"/>The fifth <hi>Deuteronomy,</hi> which is, <hi>Second Law,</hi> the Law repeated the second time.</p>
+                  <pb n="31" facs="unknown:001049_0031_0FAEF51583871B50"/>The fifth <hi>Deuteronomy,</hi> which is, <hi>Second Law,</hi> the Law repeated the second time.</p>
                <p>
                   <hi>Iudges</hi> is called from the Declaration of Judges, that judged <hi>Israel</hi> before the Kings.</p>
                <p>
@@ -802,7 +802,7 @@ his Apostles, and imprisoned <hi>Peter</hi> and <hi>John,</hi> and commanded the
                   <hi>Musick</hi> signifies, <hi>the Muses Art,</hi> or <hi>Authors of Songs,</hi> or <hi>Poetry.</hi>
                </p>
                <p>
-                  <pb n="32" facs="tcp:001049_0032_0FAEF5160FF8CE60"/>
+                  <pb n="32" facs="unknown:001049_0032_0FAEF5160FF8CE60"/>
                   <hi>Atithmetick</hi> comes of a Word that signifies, <hi>Number.</hi>
                </p>
             </div>
@@ -825,7 +825,7 @@ his Apostles, and imprisoned <hi>Peter</hi> and <hi>John,</hi> and commanded the
                   <p>
                      <hi>The Talent of the Temple</hi> or <hi>Sanctuary,</hi> weighed three thousand Shekels of the Tem<g ref="char:EOLhyphen"/>ple, which is precisely so many half ounces, which amounteth to three hundred seventy five pounds.</p>
                   <p>
-                     <pb n="33" facs="tcp:001049_0033_0FAEF51922CB97C0"/>
+                     <pb n="33" facs="unknown:001049_0033_0FAEF51922CB97C0"/>
                      <hi>A Silverling</hi> is often in Scripture used for a Shekel, which is half an ounce, and worth two shillings six pence; for thirty of these Silver<g ref="char:EOLhyphen"/>lings of the Sanctuary, Christ was sold, <hi>Mat.</hi> 26. which amounteth to three pound fifteen shillings <hi>English</hi> Mony.</p>
                   <p>
                      <hi>The common Shekel of Gold</hi> weighed two Drachms, and was worth fifteen shillings.</p>
@@ -841,7 +841,7 @@ his Apostles, and imprisoned <hi>Peter</hi> and <hi>John,</hi> and commanded the
                   <head>There are four kind of Cubits mentioned in Scripture.</head>
                   <p n="1">1. <hi>The common Cubit,</hi> this was the mea<g ref="char:EOLhyphen"/>sure from the Elbow to the Fingers end, it contained a Foot and a half, or half a Yard.</p>
                   <p n="2">2. <hi>A holy Cubit,</hi> this was a full Yard: con<g ref="char:EOLhyphen"/>taining
-<pb n="34" facs="tcp:001049_0034_0FAEF51B076D8CE0"/>
+<pb n="34" facs="unknown:001049_0034_0FAEF51B076D8CE0"/>
 two of the common Cubits.</p>
                   <p n="3">3. <hi>The King's Cubit,</hi> which is three Fin<g ref="char:EOLhyphen"/>gers longer than the common Cubit.</p>
                   <p n="4">4. <hi>A Geometrical Cubit,</hi> it contained si<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -880,7 +880,7 @@ two of the common Cubits.</p>
                </div>
             </div>
             <div type="part">
-               <pb n="35" facs="tcp:001049_0035_0FAEF51C041FD8E0"/>
+               <pb n="35" facs="unknown:001049_0035_0FAEF51C041FD8E0"/>
                <head>The Marks of a true Christian.</head>
                <p>TO love one another, and to add to your Faith Virtue, to your Virtue Knowledge, which knowledge is to know God, and Jesus Christ whom he hath sent, which is Life eternal; and to your know<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -892,20 +892,20 @@ two of the common Cubits.</p>
                      <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>eelzehub</hi> Prince of Devils:
-<pb n="36" facs="tcp:001049_0036_0FAEF51C90E397D8"/>
+<pb n="36" facs="unknown:001049_0036_0FAEF51C90E397D8"/>
 the Accuser of the Breihren: And this Devil, Sathan, and Serpent made all his Subjects call the people of God Bablers, pestilent Fel<g ref="char:EOLhyphen"/>lows, Movers of Sedition, Ring leaders of Sects, <hi>Acts</hi> 24. Turners of the World upside down, a people that are cursed and unlearned, ignorant, Schismaticks, Hereticks, Phana<g ref="char:EOLhyphen"/>ticks; and these are them that rage so against the Light within, <hi>which doth give the Light of the knowledge of the glory of God in the Face of Christ Iesus,</hi> and are so mad against the heavenly Treasure in the earthen Vessels, 2 <hi>Cor.</hi> 4. And these be of the same Spirit that the <hi>Iews</hi> were in, that said, <hi>Christ</hi> the Light <hi>had a Devil,</hi> and <hi>by the Prince of Devils, cast out Devils.</hi>
                </p>
             </div>
             <div type="part">
                <head>The Names which the Children of God are called by.</head>
                <p>The Children of God are called the Children of the Light, and the Seed of <hi>Abraham;</hi> and the Lot of God's Inheritance, and his <hi>Ser<g ref="char:EOLhyphen"/>vants,</hi> and Hand maids, Sons and Daughters, and the Elect of God before the Foundation of the World, and the Children of God, then Heirs of God, <hi>1 Peter,</hi> And they are called the Saints of God, the Church of God, Temple of God, Sheep and Lambs of Christ, Brethren of Christ, Spouse and Wife of Christ, a chosen Generation, a royal Priest-hood, offering up spiritual Sacri<g ref="char:EOLhyphen"/>fices
-<pb n="37" facs="tcp:001049_0037_0FAEF51D4DD03D58"/>
+<pb n="37" facs="unknown:001049_0037_0FAEF51D4DD03D58"/>
 to God, who is a Spirit, a holy Nation, a peculiar People, the Children of the Light, and of the Day; which makes all the Children of the Night and of Darkness, to rage against them: They are called the Light of the World, and the Salt of the Earth, and a City set on a Hill, that cannot be hid, and against this City doth <hi>Mystery Babylon</hi> the great City fight, with her Children; but they cannot prevail, for the <hi>lamb</hi> and the <hi>Saints</hi> shall have the Victory.</p>
             </div>
             <div type="part">
                <head>What Christ is called.</head>
                <p>Christ our Lord and Master, crucified in spiritual <hi>Sodom</hi> and <hi>Aegypt,</hi> is called <hi>The Won<g ref="char:EOLhyphen"/>derfull Counsellor,</hi> who doth counsel people of the possession of their Salvation, and of a Kingdom, and of a Life, and of a World that hath no end; and how to walk that they may honour God through him: He is called <hi>The mighty God,</hi> and <hi>the everlasting Father, the Prince of peace, who rules in Righteousness and Peace amongst his</hi> Children, <hi>Christ Iesus the Saviour,</hi> and <hi>Christ the Light of the World,</hi> the anointed of God, the <hi>Emmanuel,</hi> that is <hi>God with us, THE LORD OUR RIGHTE<g ref="char:EOLhyphen"/>OUSNESS, Iustification</hi> and <hi>Sanctification,</hi> the Way, the Truth, and the Life, the Word of God, that hammers down and cuts down sin, and burns it up<g ref="char:punc">▪</g> who is the Elect and
-<pb n="38" facs="tcp:001049_0038_0FAEF51E10D26968"/>
+<pb n="38" facs="unknown:001049_0038_0FAEF51E10D26968"/>
 precious laid in <hi>Sion,</hi> to all the Sons and Daughters of <hi>Sion,</hi> the Lion of the Tribe of <hi>Iudah,</hi> who rends to pieces the old Dragon, and bruises the Serpent's He<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>d, and Jesus Christ our Lord; a Lord is a Ruler, so Christ is a Lord to rule and order, and govern, and dispose his People, and so he hath the reve<g ref="char:EOLhyphen"/>rence and honour: for he rules, and orders, and governs, in Righteousness, Holiness, Virtue, Purity, and Equity, and Godliness and Truth, and in Wisdom, Power, light and life.</p>
@@ -925,13 +925,13 @@ precious laid in <hi>Sion,</hi> to all the Sons and Daughters of <hi>Sion,</hi> 
                   <p n="2">2. <hi>The King<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>y Office</hi> is to subdue all the Enemies of man, the Devil and his Works,
-<pb n="39" facs="tcp:001049_0039_0FAEF51EDF0BFF80"/>
+<pb n="39" facs="unknown:001049_0039_0FAEF51EDF0BFF80"/>
 and to subdue all his Enemies under his Feet, and to give forth the law of love, law of life, law of Spirit, law of Faith; and he to reign whose right it is, and to rule in the hearts of his people by Faith; who is King of Kings, and Lord of Lords.</p>
                   <p n="3">3. <hi>His Prophetical Office</hi>; Christ is a Pro<g ref="char:EOLhyphen"/>phet raised up like unto <hi>Moses,</hi> who is to be heard in all things, who speaks to you by his light, Power, and Spirit; and opens unto you by his power, spirit and light, things to come.</p>
                   <p n="4">4. <hi>Christ hath the Office of a Bishop,</hi> to over see thy Soul, Spirit, and Mind, that thou dost not go astray from him, who is light and Salvation.</p>
                   <p n="5">5. <hi>He hath the Office of a</hi> Shephard, who puts his Sheep forth out of the Prison and Captivity of old <hi>Adam</hi> and the Serpent, out of the Jaws of Death and the Pit, wherein there is no Water, and the Graves of old <hi>A<g ref="char:EOLhyphen"/>dam,</hi> and out of his Bryars and Thorns, and Christ goes before them as a Shepherd, and they know his Voice, and a stranger they will not follow, and he brings them to the Past<g ref="char:EOLhyphen"/>ure of life, and to the Waters and Springs of life, where he feeds them and fills them a<g ref="char:EOLhyphen"/>bundantly; Christ doth, who is the life.</p>
                   <p n="6">6. <hi>And he hath the Office of a Minister,</hi> to minister Grace and Truth unto thee, and
-<pb n="40" facs="tcp:001049_0040_0FAEF51FDB642D30"/>
+<pb n="40" facs="unknown:001049_0040_0FAEF51FDB642D30"/>
 Glory, and Faith, and the Heavenly Riches, and light, and Power, and Strength.</p>
                   <p n="7">7 <hi>He hath the Office of a Teacher,</hi> whom God hath anointed to preach (the spirit of the Lord is upon him) to bind up the Broken heart<g ref="char:EOLhyphen"/>ed, to open the eyes of the Blind, to set the Captive at liberty, and the Prisoner free, and to teach thee the way of life, Salvation, Ho<g ref="char:EOLhyphen"/>liness, and Godliness, the way of the Redeem<g ref="char:EOLhyphen"/>ed, and the way of the Lord which is perfect, and the way of the Just, which is a shining <hi>Light,</hi> distinct from the way of the Unjust, which is <hi>Darkness.</hi>
                   </p>
@@ -939,7 +939,7 @@ Glory, and Faith, and the Heavenly Riches, and light, and Power, and Strength.</
                   </p>
                   <p n="9">9. <hi>He hath the Office of a Mediator</hi> and In<g ref="char:EOLhyphen"/>terceder, who mediates and makes intercession for thee to God, that thou maist pass to God through him, who is able to save to the ut<g ref="char:EOLhyphen"/>most.</p>
                   <p n="10">10. <hi>He hath the Office of a Captain of thy Salvation,</hi> who conquers the Devil and his Works, Hell, Death, and the Grave; who trains up and disciplines his Souldiers with the heavenly Armour, the Brest plate of Righte<g ref="char:EOLhyphen"/>ousness, and the Helmet of Salvation, and the Armour of Light, and shoes the Feet with the preparation of the Gospel; and this Ar<g ref="char:EOLhyphen"/>mour
-<pb n="41" facs="tcp:001049_0041_0FAEF5205188DC70"/>
+<pb n="41" facs="unknown:001049_0041_0FAEF5205188DC70"/>
 is proof being tryed; and the Arms are, <hi>the Shield of Faith, the Sword of the Spi<g ref="char:EOLhyphen"/>rit, the Word of God</hi>; and Christ trains up his Souldiers to keep their Ranks in Righte<g ref="char:EOLhyphen"/>ousness, in Godliness, in Holiness, in Truth, in Life, that they may stand against Death, and stand against Darkness, Unrighteousness, Unholiness, and the Power and Prince of it, but doth not wrestle nor war with flesh and blood, but with spiritual wickedness, and Rulers of Darkness in High places, &amp;c. And many more Offices, as thou readest the Scriptures, thou wilt see Child, as thou growest in Truth, that Christ hath; for Christ is the Way, the Truth and the Life, and the Leader of people to God, whom old <hi>Adam</hi> and the Serpent hath led from God.</p>
                </sp>
                <sp>
@@ -969,7 +969,7 @@ is proof being tryed; and the Arms are, <hi>the Shield of Faith, the Sword of th
                   </p>
                </sp>
                <sp>
-                  <pb n="42" facs="tcp:001049_0042_0FAEF5231EFAA618"/>
+                  <pb n="42" facs="unknown:001049_0042_0FAEF5231EFAA618"/>
                   <speaker>Mast.</speaker>
                   <p>The true hope is Christ, in you the hope of Glory, <hi>Col.</hi> 1.27.</p>
                </sp>
@@ -1020,7 +1020,7 @@ is proof being tryed; and the Arms are, <hi>the Shield of Faith, the Sword of th
                   </p>
                </sp>
                <sp>
-                  <pb n="43" facs="tcp:001049_0043_0FAEF5241D813518"/>
+                  <pb n="43" facs="unknown:001049_0043_0FAEF5241D813518"/>
                   <speaker>Mast.</speaker>
                   <p>It is the Spirit of Truth which must lead into all Truth.</p>
                </sp>
@@ -1102,7 +1102,7 @@ is proof being tryed; and the Arms are, <hi>the Shield of Faith, the Sword of th
                <sp>
                   <speaker>Mast.</speaker>
                   <p>Yes, his blood was shed for all men, and he tasted Death for every man, &amp;c. tho some crample the blood of the New covenant
-<pb n="44" facs="tcp:001049_0044_0FAEF5261A0D3080"/>
+<pb n="44" facs="unknown:001049_0044_0FAEF5261A0D3080"/>
 under their feet, and deny the Lord Jesus that bought them.</p>
                </sp>
                <sp>
@@ -1164,7 +1164,7 @@ under their feet, and deny the Lord Jesus that bought them.</p>
                <sp>
                   <speaker>Mast.</speaker>
                   <p>It was from above, from God, of
-<pb n="45" facs="tcp:001049_0045_0FAEF5264C8C5B48"/>
+<pb n="45" facs="unknown:001049_0045_0FAEF5264C8C5B48"/>
 his Image and Righteousness, likeness and holiness; the Image of God was not of the Earth from below.</p>
                </sp>
                <sp>
@@ -1217,7 +1217,7 @@ his Image and Righteousness, likeness and holiness; the Image of God was not of 
                      <hi>what is the Wheat</hi>?</p>
                </sp>
                <sp>
-                  <pb n="46" facs="tcp:001049_0046_0FAEF52714D586D0"/>
+                  <pb n="46" facs="unknown:001049_0046_0FAEF52714D586D0"/>
                   <speaker>Mast.</speaker>
                   <p>The Wheat is the Seed of God.</p>
                </sp>
@@ -1288,7 +1288,7 @@ his Image and Righteousness, likeness and holiness; the Image of God was not of 
                <sp>
                   <speaker>Mast.</speaker>
                   <p>The Scriptures signifies <hi>writings</hi>; the Scriptures of Truth are the Words of God;
-<pb n="47" facs="tcp:001049_0047_0FAEF527CFD5D540"/>
+<pb n="47" facs="unknown:001049_0047_0FAEF527CFD5D540"/>
 Christ's Name is called the Word in the <hi>Reve<g ref="char:EOLhyphen"/>lations,</hi> In the beginning was the Word, and the Word was with God, and God was the Word, <hi>Iohn.</hi> 1.</p>
                </sp>
                <sp>
@@ -1372,7 +1372,7 @@ Christ's Name is called the Word in the <hi>Reve<g ref="char:EOLhyphen"/>lations
                   </p>
                </sp>
                <sp>
-                  <pb n="48" facs="tcp:001049_0048_0FAEF528C7D7C448"/>
+                  <pb n="48" facs="unknown:001049_0048_0FAEF528C7D7C448"/>
                   <speaker>Mast.</speaker>
                   <p>The Cross of Christ is the Power of God, and this is foolishness to them that pe<g ref="char:EOLhyphen"/>rish, and set up a wooden or a stone or iron Cross, or any outward Cross.</p>
                </sp>
@@ -1412,7 +1412,7 @@ Christ's Name is called the Word in the <hi>Reve<g ref="char:EOLhyphen"/>lations
                   <p>Yes, by believing in the Light, thou shalt be a Child of Light.</p>
                </sp>
                <sp>
-                  <pb n="49" facs="tcp:001049_0049_0FAEF529469476A8"/>
+                  <pb n="49" facs="unknown:001049_0049_0FAEF529469476A8"/>
                   <speaker>Sch.</speaker>
                   <p>
                      <hi>Who are true</hi> Christians?</p>
@@ -1442,7 +1442,7 @@ Christ's Name is called the Word in the <hi>Reve<g ref="char:EOLhyphen"/>lations
                <sp>
                   <speaker>Mast.</speaker>
                   <p>Yes, it is the proper Language to a single person, and according to the Scripture; God said <hi>Thee</hi> and <hi>Thou</hi> to <hi>Adam,</hi> and <hi>Adam</hi> said <hi>Thou</hi> to God; and people say <hi>Thee</hi> and <hi>Thou</hi> in their Prayers; and it is the Pride in peoples Hearts that cannot take that Language
-<pb n="50" facs="tcp:001049_0050_0FAEF52BDC0825C0"/>
+<pb n="50" facs="unknown:001049_0050_0FAEF52BDC0825C0"/>
 themselves which they give to God; And God said <hi>Thee</hi> and <hi>Thou</hi> to <hi>Moses,</hi> and <hi>Moses</hi> said <hi>Thee</hi> and <hi>Thou</hi> to God again: <hi>Iacob</hi> said <hi>Thee</hi> and <hi>Thou</hi> to <hi>Laban,</hi> and <hi>Laban</hi> said <hi>Thee</hi> and <hi>Thou</hi> to him again; and <hi>Iacob</hi> and his Sons said <hi>Thee</hi> and <hi>Thou</hi> to each other, <hi>Gen.</hi> 43. to <hi>Chap.</hi> 49.</p>
                   <p>And <hi>Ieptha,</hi> who was a Judge in <hi>Israel,</hi> did <hi>Thee</hi> and <hi>Thou</hi> his Daughter, and she did <hi>Thee</hi> and <hi>Thou</hi> her Father the Judge again, <hi>Iudg.</hi> 11. And when <hi>Daniel</hi> and the 3 Child<g ref="char:EOLhyphen"/>ren were before the King, upon Examination, they said <hi>Thou</hi> to the King; and the <hi>
                         <gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -1462,7 +1462,7 @@ themselves which they give to God; And God said <hi>Thee</hi> and <hi>Thou</hi> 
                   <p>With God there is no respect of per<g ref="char:EOLhyphen"/>sons; and <hi>Iames</hi> said, If you have respect of persons you commit sin, and are convinced o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> the Law as transgressors; and in <hi>Iob Elihu</hi> said, Let me not, I pray you, accept any mans per<g ref="char:EOLhyphen"/>son, neither let me give flattering Titles unto Man; for I know not to give flattering Titles,
-<pb n="51" facs="tcp:001049_0051_0FAEF52D6F0B03B8"/>
+<pb n="51" facs="unknown:001049_0051_0FAEF52D6F0B03B8"/>
 in so doing my Maker would soon take me a<g ref="char:EOLhyphen"/>way, <hi>Ioh.</hi> 32.21<g ref="char:punc">▪</g> 22.</p>
                </sp>
                <sp>
@@ -1500,7 +1500,7 @@ in so doing my Maker would soon take me a<g ref="char:EOLhyphen"/>way, <hi>Ioh.<
                <sp>
                   <speaker>Mast.</speaker>
                   <p>God made the World in six Days &amp; rested the seventh Day, and he called the Eve<g ref="char:EOLhyphen"/>ning and Morning the <hi>first Day,</hi> and the Eve<g ref="char:EOLhyphen"/>ning and the Morning the <hi>second Day,</hi> and the <hi>third Day,</hi> &amp;c. And Christ rose on the <hi>first day</hi> of the Week, and they came to the Sepulchre when the <hi>Iews</hi> Sabbath was ended, on the <hi>first Day</hi> of the Week the Disciples met together: And in <hi>Ex.</hi> 12.2. <hi>This month shall be unto you the beginning of months, it shall be the</hi> first
-<pb n="52" facs="tcp:001049_0052_0FAEF52E19052E90"/>
+<pb n="52" facs="unknown:001049_0052_0FAEF52E19052E90"/>
 month <hi>of the year to you<g ref="char:punc">▪</g>
                      </hi> And in <hi>Ex<g ref="char:punc">▪</g>
                      </hi> 16. <hi>Mo<g ref="char:EOLhyphen"/>ses <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -1521,7 +1521,7 @@ month <hi>of the year to you<g ref="char:punc">▪</g>
                            <desc>•</desc>
                         </gap>sco</hi>
                      <g ref="char:punc">▪</g> from whence came <hi>Tuesday</hi>; and from the Idol <hi>Woden</hi> came <hi>Wednesday</hi>; and from the <hi>Idol Thor</hi> came <hi>Thursday</hi>; and from the Idol <hi>Friga</hi> came <hi>Friday</hi>; and from the Idol <hi>Seater</hi> came <hi>Saturday.</hi> And the Heathen called <hi>Mars</hi> the God of Battle, and from thence they called the first Month <hi>March:</hi> And <hi>Venus</hi> they called the Goddess of Love and beauty, and from thence they called the second Month <hi>April</hi>; And <hi>Maja</hi> a heathen Goddess called <hi>Flora; Flora</hi> and <hi>Cloris</hi> were called the God<g ref="char:EOLhyphen"/>desses of Flowers; Unto <hi>Maja</hi> the heathen Idolaters used to sacrifice, from thence was the third Month called <hi>May</hi>; and upon the
-<pb n="53" facs="tcp:001049_0053_0FAEF52F11BF9440"/>
+<pb n="53" facs="unknown:001049_0053_0FAEF52F11BF9440"/>
 first day of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> 
@@ -1554,7 +1554,7 @@ first day of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <speaker>Mast.</speaker>
                   <p>The marks the Schriptures give of Deceivers and false Prophets are these: I shall set them down in short, that thou maist re<g ref="char:EOLhyphen"/>member them the better.</p>
                   <p n="1">
-                     <pb n="54" facs="tcp:001049_0054_0FAEF52F8A24B9B8"/>1. They are such as bear rule by their Means, <hi>Ier.</hi> 30.31. <hi>Mat.</hi> 10.19, 20.</p>
+                     <pb n="54" facs="unknown:001049_0054_0FAEF52F8A24B9B8"/>1. They are such as bear rule by their Means, <hi>Ier.</hi> 30.31. <hi>Mat.</hi> 10.19, 20.</p>
                   <p n="2">2. They are such as seek for their Gain from their Quarters, <hi>Isa.</hi> 56.</p>
                   <p n="3">3. They seek for the Fleece, and make a prey upon the People, <hi>Ezek.</hi> 34.1, 2, 3.</p>
                   <p n="4">4. They are such as preach for Hire, and <hi>Divine for Money, Mic.</hi> 2.11.</p>
@@ -1562,7 +1562,7 @@ first day of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <p n="6">6. They run when the Lord never sent them, and prophesie Lies in his Name, <hi>Ier.</hi> 14.4.</p>
                   <p n="7">7. They stand praying in the Synagogues, they love the uppermost Rooms at Feasts, and the chief Seats in the Synagogues, and love Greetings in the Markets, and to be called of men Master, and they make them broad Phi<g ref="char:EOLhyphen"/>lacteries on their Garments, that they may be taken notice of; for they do that they do to be seen of Men, and are proud and covetous, and they come of <hi>Cain</hi>'s Stock, for they are full of Envy and are in <hi>Balaam</hi>'s way, who was erred from the Spirit of God, and recei<g ref="char:EOLhyphen"/>ved the Wages of Unrighteousness, and so do they, 2 <hi>Peter</hi> 2. <hi>Iudge</hi> 11.</p>
                   <p n="8">8. They are such as sprinkle Infants, for which they have no rule in Scripture; and tell people it is an Ordinance of Christ; when it
-<pb n="55" facs="tcp:001049_0055_0FAEF5300C453088"/>
+<pb n="55" facs="unknown:001049_0055_0FAEF5300C453088"/>
 is but one of their own Inventions, and so are Liars and Deceivers.</p>
                   <p n="9">9. They tell people they shall never be free from sin whilst they live here.</p>
                   <p n="10">10. They are made Ministers by the Will of man, and men uphold them: If thou meetest with them and seest those Fruits brought forth by them, then beware of them; for they have got on sheeps Cloathing, but inwardly they are ravening Wolves.</p>
@@ -1579,7 +1579,7 @@ is but one of their own Inventions, and so are Liars and Deceivers.</p>
                   <p n="1">1. The true Ministers of Christ, as they have received the <hi>Gift</hi> of <hi>God</hi> freely, so they mini<g ref="char:EOLhyphen"/>ster freely from the same; as good Stewards of the manifuld <hi>Grace</hi> of <hi>God,</hi> and they do unto all Men as they would have all Men do unto them.</p>
                   <p n="2">2. They do not strive for Mastership, like the false Prophets; but are gentle unto all men, and apt to teach, patient, in meekness instructing those that oppose themselves, 2 <hi>Tim.</hi> 2.22. that so the Church may be edified.</p>
                   <p n="3">3. The true Ministers have no mans person in admiration because of advantage, but are men of sorrows, despised and rejected of men, as Christ was; and they are not made Minist<g ref="char:EOLhyphen"/>ers by the Will of man but by Christ Jesus, and are blameless as the Stewards of God, not self-willed, nor soon angry, nor given to Wine;
-<pb n="56" facs="tcp:001049_0056_0FAEF530CC0AA440"/>
+<pb n="56" facs="unknown:001049_0056_0FAEF530CC0AA440"/>
 no Strikers; nor greedy of filthy Lucre, <hi>Tit.</hi> 1.7.</p>
                   <p n="4">4. And the true Ministers work was, for the perfecting of the Saints, for the edifying of the Body of Christ: and the true Ministers were not bred up seven years at the Colledges, as the Deceivers are now; but the Lord called Trad<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
@@ -1598,7 +1598,7 @@ no Strikers; nor greedy of filthy Lucre, <hi>Tit.</hi> 1.7.</p>
                   <p>Yes, the people of God were in all Ages mock'd, persecuted, imprisoned and suf<g ref="char:EOLhyphen"/>fere<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>s. <hi>Elisha</hi> the Prophet was mocked, and called Bald-head. And the Lord sent his Mes<g ref="char:EOLhyphen"/>sengers, rising up betimes and sending because he had compassion on his People; but they mocked the messengers of God, and despised his Words, and misused his Prophets, where the Wrath of the Lord was against them, <hi>Chron.</hi> 36.15. And <hi>David</hi> was despised of the people, they laughed him to scorn, they shot out their Lips and shaked their heads at him: And in <hi>Psal.</hi> 69.12. <hi>David</hi> said, <hi>Sack-cloth is my Garment, and I am become a Proverb to them, and I am the Song of the Drunkards.</hi> And <hi>Ier.</hi> 20.7. <hi>Ieremiah</hi> said, <hi>I am in derision dai<g ref="char:EOLhyphen"/>ly, every one mocketh me.</hi> And thou maist read
-<pb n="57" facs="tcp:001049_0057_0FAEF531B710DCE0"/>
+<pb n="57" facs="unknown:001049_0057_0FAEF531B710DCE0"/>
 before, how he was persecuted, and put in the D<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>ngeon. And <hi>David</hi> said, <hi>The wicked have waited for me, to destroy me, and they have laid a S<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1615,7 +1615,7 @@ before, how he was persecuted, and put in the D<gap reason="illegible" resp="#PD
                </sp>
             </div>
             <div type="part">
-               <pb n="58" facs="tcp:001049_0058_0FAEF5327A743BC0"/>
+               <pb n="58" facs="unknown:001049_0058_0FAEF5327A743BC0"/>
                <head>Proverbs, which are short wise Sentences, ve<g ref="char:EOLhyphen"/>ry necessary for children to Read and Learn.</head>
                <p>CHasten thy Son whilst there is hope and let not thy Soul spare for his crying, <hi>Prov.</hi> 19.18.</p>
                <p>He that spareth his Rod hateth his Son; but he that loveth him chasteneth him betimes.</p>
@@ -1632,7 +1632,7 @@ before, how he was persecuted, and put in the D<gap reason="illegible" resp="#PD
                   </gap> like a broken tooth, and a Foot out of joynt.</p>
                <p>A wife Son maketh a glad Father, but a foolish Son is the heaviness of his Mother.</p>
                <p>Apply thy Heart to Instruction, and thine
-<pb n="59" facs="tcp:001049_0059_0FAEF5331CB6A988"/>
+<pb n="59" facs="unknown:001049_0059_0FAEF5331CB6A988"/>
 Ears to the Words of Knowledge.</p>
                <p>Whoso loveth instruction loveth Know<g ref="char:EOLhyphen"/>ledge; but he that hateth Reproof it brutish.</p>
                <p>He is in the way of Life that keepeth In<g ref="char:EOLhyphen"/>struction; but he that refuseth Reproof erreth.</p>
@@ -1651,7 +1651,7 @@ Ears to the Words of Knowledge.</p>
                <p>ai, or ay, as in maid, may</p>
                <p>au, or aw, as Laud, Law.</p>
                <p>
-                  <pb n="60" facs="tcp:001049_0060_0FAEF533D3E13FA8"/>ea, as earth.</p>
+                  <pb n="60" facs="unknown:001049_0060_0FAEF533D3E13FA8"/>ea, as earth.</p>
                <p>ee, as seed.</p>
                <p>ei, as heir.</p>
                <p>eu, or ew, as feud, grew,</p>
@@ -1670,7 +1670,7 @@ Ears to the Words of Knowledge.</p>
                </p>
                <p>(;) A. <hi>Semi colon</hi> is a longer stop or breath<g ref="char:EOLhyphen"/>ing; as <hi>for I am in distress</hi>;</p>
                <p>(:) A <hi>Colon</hi> is commonly put in the middle of a Sentence; as, <hi>my bowels are troubled:
-<pb n="61" facs="tcp:001049_0061_0FAEF53487BA0700"/>
+<pb n="61" facs="unknown:001049_0061_0FAEF53487BA0700"/>
 my Heart is turned within me, for I haue grie<g ref="char:EOLhyphen"/>uously rebelled.</hi>
                </p>
                <p>(.) A <hi>Period</hi> is a full stop, and is put af<g ref="char:EOLhyphen"/>ter a full Sentence; as, <hi>Abroad the Sword, bereaueth, at home there is a Dearth.</hi>
@@ -1697,7 +1697,7 @@ my Heart is turned within me, for I haue grie<g ref="char:EOLhyphen"/>uously reb
                </list>
             </div>
             <div type="part">
-               <pb n="62" facs="tcp:001049_0062_0FAEF535708D5A10"/>
+               <pb n="62" facs="unknown:001049_0062_0FAEF535708D5A10"/>
                <head>Hard Words used in our <hi>English</hi> Tongue explained.</head>
                <div n="A" type="section">
                   <list>
@@ -1745,7 +1745,7 @@ my Heart is turned within me, for I haue grie<g ref="char:EOLhyphen"/>uously reb
                         <hi>Affinity,</hi> kin by marriage.</item>
                      <item>
                         <hi>Antichrist,</hi> an adversary to Christ; it is com<g ref="char:EOLhyphen"/>pounded of the <hi>Greek</hi> preposition, <hi>Anti</hi> and
-<pb n="63" facs="tcp:001049_0063_0FAEF53984F3E220"/>
+<pb n="63" facs="unknown:001049_0063_0FAEF53984F3E220"/>
                         <hi>Christus,</hi> which signifies, contrary or to against Christ.</item>
                      <item>
                         <hi>Antidote,</hi> a Medicine against Poyson.</item>
@@ -1789,7 +1789,7 @@ my Heart is turned within me, for I haue grie<g ref="char:EOLhyphen"/>uously reb
                   </list>
                </div>
                <div n="C" type="section">
-                  <pb n="64" facs="tcp:001049_0064_0FAEF53B67529AC8"/>
+                  <pb n="64" facs="unknown:001049_0064_0FAEF53B67529AC8"/>
                   <list>
                      <head>C</head>
                      <item>
@@ -1844,7 +1844,7 @@ my Heart is turned within me, for I haue grie<g ref="char:EOLhyphen"/>uously reb
                      <item>
                         <hi>Consanguinity,</hi> Kindred by Blood &amp; Birth</item>
                      <item>
-                        <pb n="65" facs="tcp:001049_0065_0FAEF53C075A4B30"/>
+                        <pb n="65" facs="unknown:001049_0065_0FAEF53C075A4B30"/>
                         <hi>Consanguinity,</hi> Kindred by Blood and Birth.</item>
                      <item>
                         <hi>Consolatory,</hi> comforting.</item>
@@ -1907,7 +1907,7 @@ my Heart is turned within me, for I haue grie<g ref="char:EOLhyphen"/>uously reb
                      <item>
                         <hi>Edifie,</hi> building up.</item>
                      <item>
-                        <pb n="66" facs="tcp:001049_0066_0FAEF53CC7900900"/>
+                        <pb n="66" facs="unknown:001049_0066_0FAEF53CC7900900"/>
                         <hi>Education,</hi> bringing up.</item>
                      <item>
                         <hi>Effusion,</hi> pouring forth.</item>
@@ -1981,7 +1981,7 @@ my Heart is turned within me, for I haue grie<g ref="char:EOLhyphen"/>uously reb
                   </list>
                </div>
                <div n="H" type="section">
-                  <pb n="67" facs="tcp:001049_0067_0FAEF53D8C5DAE10"/>
+                  <pb n="67" facs="unknown:001049_0067_0FAEF53D8C5DAE10"/>
                   <list>
                      <head>H</head>
                      <item>
@@ -2051,7 +2051,7 @@ my Heart is turned within me, for I haue grie<g ref="char:EOLhyphen"/>uously reb
                      <item>
                         <hi>Longitude,</hi> length of a place.</item>
                      <item>
-                        <pb n="68" facs="tcp:001049_0068_0FAEF53E6102AF00"/>
+                        <pb n="68" facs="unknown:001049_0068_0FAEF53E6102AF00"/>
                         <hi>Loyal,</hi> Obedient.</item>
                      <item>
                         <hi>Luxurious,</hi> riotous, excessive.</item>
@@ -2116,7 +2116,7 @@ my Heart is turned within me, for I haue grie<g ref="char:EOLhyphen"/>uously reb
                      <item>
                         <hi>Native,</hi> born.</item>
                      <item>
-                        <pb n="69" facs="tcp:001049_0069_0FAEF53F06B5C9E8"/>
+                        <pb n="69" facs="unknown:001049_0069_0FAEF53F06B5C9E8"/>
                         <hi>Negromancy,</hi> black Art.</item>
                      <item>
                         <hi>Neuter,</hi> of neither side.</item>
@@ -2185,7 +2185,7 @@ my Heart is turned within me, for I haue grie<g ref="char:EOLhyphen"/>uously reb
                      <item>
                         <hi>Phanatick,</hi> a mad man.</item>
                      <item>
-                        <pb n="70" facs="tcp:001049_0070_0FAEF540178C7910"/>
+                        <pb n="70" facs="unknown:001049_0070_0FAEF540178C7910"/>
                         <hi>Philosopher,</hi> a lover of Wisdom.</item>
                      <item>
                         <hi>Premeditate,</hi> to muse and think on a thing before hand.</item>
@@ -2252,7 +2252,7 @@ my Heart is turned within me, for I haue grie<g ref="char:EOLhyphen"/>uously reb
                      <item>
                         <hi>Subscribe,</hi> write under.</item>
                      <item>
-                        <pb n="71" facs="tcp:001049_0071_0FAEF540967AAB50"/>
+                        <pb n="71" facs="unknown:001049_0071_0FAEF540967AAB50"/>
                         <hi>Substract,</hi> take from:</item>
                      <item>
                         <hi>Superiour,</hi> higher:</item>
@@ -2311,7 +2311,7 @@ my Heart is turned within me, for I haue grie<g ref="char:EOLhyphen"/>uously reb
                   <head>A</head>
                   <p>
                      <hi>ASK</hi> the Carpenter for his <hi>Ax</hi>: Since I learn'd my <hi>Accidence,</hi> there
-<pb n="72" facs="tcp:001049_0072_0FAEF5436B669C68"/>
+<pb n="72" facs="unknown:001049_0072_0FAEF5436B669C68"/>
 have been strange <hi>Accidents</hi>:</p>
                   <p>Gi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -2347,7 +2347,7 @@ have been strange <hi>Accidents</hi>:</p>
                   <p>He <hi>boasted</hi> his Book was so well <hi>bost</hi>:</p>
                   <p>The Dog did <hi>bark,</hi> that lay in the <hi>Barque</hi>:</p>
                   <p>
-                     <pb n="73" facs="tcp:001049_0073_0FAEF5446090A798"/>When he went into <hi>Barbary,</hi> he left his Maid <hi>Barbara.</hi>
+                     <pb n="73" facs="unknown:001049_0073_0FAEF5446090A798"/>When he went into <hi>Barbary,</hi> he left his Maid <hi>Barbara.</hi>
                   </p>
                   <p>The Bird which was <hi>bill'd</hi> like an Hawk, did <hi>build</hi> her Nest.</p>
                   <p>A <hi>bald</hi> Head; his Dog <hi>baul'd.</hi>
@@ -2388,7 +2388,7 @@ have been strange <hi>Accidents</hi>:</p>
                   </p>
                   <p>What were the <hi>Causes,</hi> that the <hi>Causeys</hi> were no better.</p>
                   <p>
-                     <pb n="74" facs="tcp:001049_0074_0FAEF5464B27E178"/>He <hi>quoteth</hi> a place of Scripture, <hi>coateth</hi> his Child.</p>
+                     <pb n="74" facs="unknown:001049_0074_0FAEF5464B27E178"/>He <hi>quoteth</hi> a place of Scripture, <hi>coateth</hi> his Child.</p>
                   <p>He <hi>cool'd</hi> his Milk, because he <hi>could</hi> not eat it so hot.</p>
                   <p>The Butcher did <hi>call</hi> for the <hi>Caul</hi> of the Liver.</p>
                   <p>A <hi>Cousin</hi> will sometimes <hi>Cuzen</hi> his near Kindred.</p>
@@ -2422,7 +2422,7 @@ have been strange <hi>Accidents</hi>:</p>
                   <p>The most <hi>Eminent</hi> man was in the most <hi>Im<g ref="char:EOLhyphen"/>minent</hi> danger.</p>
                </div>
                <div n="F" type="section">
-                  <pb n="75" facs="tcp:001049_0075_0FAEF5468B2CE2B8"/>
+                  <pb n="75" facs="unknown:001049_0075_0FAEF5468B2CE2B8"/>
                   <head>F</head>
                   <p>The Cook had more skill in a <hi>Froise</hi> than in a <hi>Phrase.</hi>
                   </p>
@@ -2462,7 +2462,7 @@ have been strange <hi>Accidents</hi>:</p>
                   <p>Ox <hi>Galls,</hi> the <hi>Gauls</hi> upon Horses backs.</p>
                   <p>A <hi>gilt</hi> Cup, the <hi>guili</hi> of sin.</p>
                   <p>To <hi>glister</hi> like Gold; the Physician hath
-<pb n="76" facs="tcp:001049_0076_0FAEF5474C03CA58"/>
+<pb n="76" facs="unknown:001049_0076_0FAEF5474C03CA58"/>
 prescribed a <hi>Glyster.</hi>
                   </p>
                </div>
@@ -2508,7 +2508,7 @@ prescribed a <hi>Glyster.</hi>
                   <p>A <hi>Kennel</hi> for Dogs; sweep the <hi>Channel clean.</hi>
                   </p>
                   <p>The <hi>Knots</hi> are fast tyed; the <hi>Gnats</hi> are ve<g ref="char:EOLhyphen"/>ry
-<pb n="77" facs="tcp:001049_0077_0FAEF548089013E0"/>
+<pb n="77" facs="unknown:001049_0077_0FAEF548089013E0"/>
 busie in hot weather.</p>
                </div>
                <div n="L" type="section">
@@ -2542,7 +2542,7 @@ busie in hot weather.</p>
                   <p>Things were in a good <hi>manner,</hi> at the <hi>Ma<g ref="char:EOLhyphen"/>nour</hi> house.</p>
                   <p>A <hi>Mote</hi> in the Eye; a <hi>Moate</hi> or Ditch.</p>
                   <p>He had no cause to <hi>moan,</hi> when his Corn
-<pb n="78" facs="tcp:001049_0078_0FAEF548C735E6C8"/>
+<pb n="78" facs="unknown:001049_0078_0FAEF548C735E6C8"/>
 was <hi>mown.</hi>
                   </p>
                   <p>The Cat will <hi>mouse</hi> well, among the Corn <hi>Mows.</hi>
@@ -2584,7 +2584,7 @@ was <hi>mown.</hi>
                   <head>P</head>
                   <p>He took great <hi>Pains</hi> to mend the <hi>Panes</hi> that were broken.</p>
                   <p>He had laid a <hi>Plot</hi> to take away a <hi>Plat</hi> of
-<pb n="79" facs="tcp:001049_0079_0FAEF54986990A88"/>
+<pb n="79" facs="unknown:001049_0079_0FAEF54986990A88"/>
 Ground.</p>
                   <p>The <hi>Principal</hi> man taught the first <hi>Principle</hi>
                      <g ref="char:punc">▪</g>
@@ -2668,7 +2668,7 @@ Ground.</p>
                         </gap>ight.</hi>
                   </p>
                   <p>The <hi>Rinde</hi> of a Pomgranate; the River
-<pb n="80" facs="tcp:001049_0080_0FAEF54BECD8F8E8"/>
+<pb n="80" facs="unknown:001049_0080_0FAEF54BECD8F8E8"/>
                      <hi>Rhine.</hi>
                   </p>
                   <p>A <hi>Roe</hi> Buck; a <hi>row</hi> of Trees.</p>
@@ -2717,7 +2717,7 @@ Ground.</p>
                      <hi>Cite</hi> him to appear; the <hi>Sight</hi> of the Eye.</p>
                   <p>The <hi>Sole</hi> of a Shoe; the <hi>Soul</hi> and Body.</p>
                   <p>
-                     <pb n="81" facs="tcp:001049_0081_0FAEF54D75F83538"/>A <hi>s<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <pb n="81" facs="unknown:001049_0081_0FAEF54D75F83538"/>A <hi>s<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>und</hi> Body may <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -2772,7 +2772,7 @@ Ground.</p>
                   <p>He was <hi>thrown</hi> from his <hi>Throne.</hi>
                   </p>
                   <p>
-                     <pb n="82" facs="tcp:001049_0082_0FAEF54E06CAEFF8"/>It was <hi>through</hi> help he came <hi>thorouhg.</hi>
+                     <pb n="82" facs="unknown:001049_0082_0FAEF54E06CAEFF8"/>It was <hi>through</hi> help he came <hi>thorouhg.</hi>
                   </p>
                   <p>
                      <hi>There</hi> was one of <hi>their</hi> own Kindred.</p>
@@ -2821,7 +2821,7 @@ Ground.</p>
                </div>
             </div>
             <div type="part">
-               <pb n="83" facs="tcp:001049_0083_0FAEF54ECA0B59A0"/>
+               <pb n="83" facs="unknown:001049_0083_0FAEF54ECA0B59A0"/>
                <head>Proper Names in Scripture, with their Signi<g ref="char:EOLhyphen"/>fication in <hi>English.</hi>
                </head>
                <div n="A" type="section">
@@ -2829,7 +2829,7 @@ Ground.</p>
                      <hi>AAron,</hi> a Teacher. <hi>Abda,</hi> a Servant. <hi>Ab<g ref="char:EOLhyphen"/>diel,</hi> a Servant of God<g ref="char:punc">▪</g> 
                      <hi>Abdi,</hi> my Ser<g ref="char:EOLhyphen"/>vant. <hi>Abdiah,</hi> a Servant of the Lord. <hi>Abed<g ref="char:EOLhyphen"/>nego,</hi> Servant of shining. <hi>Abyl,</hi> Mourning. <hi>Abagthat,</hi> Father of the Wine Press. <hi>Abiah,</hi> the Will of the Lord. <hi>Abijam,</hi> Father of the Sea. <hi>Abiasaph,</hi> a gathering Father. <hi>Abiathar,</hi> Father of the Remnant, or excellent Father. <hi>Abida,</hi> father of Knowledge <hi>Abidan,</hi> father of Iudgment. <hi>Abiel,</hi> my Father is God. <hi>Abie<g ref="char:EOLhyphen"/>zer,</hi> the Fathers Help. <hi>Abigail,</hi> the Fathers Ioy, <hi>she was Wife to ungodly</hi> Nabal. <hi>Abi<g ref="char:EOLhyphen"/>hail,</hi> the Father of Strength. <hi>Abihu,</hi> he is a Father. <hi>Abihud,</hi> the Father of Praise. <hi>Abi<g ref="char:EOLhyphen"/>lene,</hi> lamentable. <hi>Abimael,</hi> a Father from God. <hi>Abimelech,</hi> the Kings Father, <hi>or</hi> a Fa<g ref="char:EOLhyphen"/>ther of Counsel. <hi>Abinadab,</hi> a Father of a Vow. <hi>Abinoam,</hi> Father of Beauty. <hi>Abiram,</hi> an high Father. <hi>Abishag,</hi> the Fathers Ignorance. <hi>Abi<g ref="char:EOLhyphen"/>shai,</hi> the Fathers Reward. <hi>Abishalom,</hi> the Fa<g ref="char:EOLhyphen"/>ther of Peace, <hi>or</hi> the Peace of the Father. <hi>Abishua,</hi> the Father of Salvation. <hi>Abishur,</hi> the Father of a Song <hi>Abital,</hi> the Father. of the Dew. <hi>Abitob,</hi> the Father of Goodness. <hi>Abner,</hi> the Fathers Candle. <hi>Abshalom,</hi> the Fathers Peace, <hi>or</hi> Reward. <hi>Achan,</hi> troubling. <hi>Adade<g ref="char:EOLhyphen"/>zer,</hi> beautiful Help. <hi>Adaliab,</hi> Poverty. <hi>Ada<g ref="char:EOLhyphen"/>jah,</hi> the Witness of the Lord. <hi>Adiel,</hi> the Wit<g ref="char:EOLhyphen"/>ness of God. <hi>Adonijah<g ref="char:punc">▪</g>
                      </hi> the Lord is the Ruler<g ref="char:punc">▪</g>
-                     <pb n="84" facs="tcp:001049_0084_0FAEF54FBA95DD20"/>
+                     <pb n="84" facs="unknown:001049_0084_0FAEF54FBA95DD20"/>
                      <hi>Adonizedeck,</hi> the Lords Iustice. <hi>Agabus,</hi> a Gras<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>hopper. <hi>Agar,</hi> a Stranger. <hi>Ahaz,</hi> ta<g ref="char:EOLhyphen"/>king, <hi>or</hi> possessing. <hi>Ahasuerus,</hi> a Prince, <hi>or</hi> Head. <hi>Ahban,</hi> a Brother of Understanding. <hi>A<g ref="char:EOLhyphen"/>hijah,</hi> Brother of the Lord. <hi>Ahimaaz,</hi> Broth<g ref="char:EOLhyphen"/>er of Counsel. <hi>Ahiman,</hi> Brother of the right hand. <hi>Ahimelech,</hi> a Kings Brother. <hi>Ahimoth,</hi> a <hi>Brother</hi> of Death. <hi>Ahinoam,</hi> the Brothers Beauty. <hi>Ahier,</hi> the Brothers Light. <hi>Ahilab,</hi> a hearty Brother. <hi>Arah,</hi> a sweet savouring Meadow. <hi>Ahikam,</hi> a Brother arising. <hi>Ahiezer,</hi> the Brothers help. <hi>Aholah,</hi> a Mansion, <hi>or</hi> dwelling in her self. <hi>Aholiab,</hi> my Mansion in her. <hi>Ahud,</hi> praising or confessing. <hi>Alian,</hi> high. <hi>Amaleck,</hi> a licking People. <hi>Amaajah,</hi> the Lord said, <hi>or</hi> the Lamb of the Lord. <hi>Amasa,</hi> sparing the People. <hi>Amashai,</hi> the Gift of the People. <hi>Amaziah,</hi> the Burden of the Lord, <hi>Amatha,</hi> a Cloud, <hi>or</hi> Vapour of Death. <hi>Ami<g ref="char:EOLhyphen"/>h<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2840,7 +2840,7 @@ Ground.</p>
                      <hi>Ammi,</hi> my People. <hi>Ammiel,</hi> the People of God. <hi>Ammi<g ref="char:EOLhyphen"/>hur,</hi> People of Liberty. <hi>Ammishaddai,</hi> the People of the Almighty. <hi>Ammon,</hi> a People-<hi>Ammonites,</hi> populous, <hi>or</hi> a Multitude. <hi>A<g ref="char:EOLhyphen"/>mo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>,</hi> faithful, <hi>or</hi> true. <hi>Amorites,</hi> bitter Peo<g ref="char:EOLhyphen"/>ple, <hi>or</hi> cruel Rebels. <hi>Amos,</hi> a Burden. <hi>Amoz,</hi> strong, <hi>or</hi> mighty, <hi>the Father of</hi> Isaiah <hi>the Prophet. Amphibolis,</hi> a City compassed. <hi>Anab,</hi> a Grape. <hi>Anah,</hi> answering, <hi>or</hi> singing. <hi>Ana<g ref="char:EOLhyphen"/>harath,</hi> Driness, <hi>or</hi> burning, <hi>or</hi> Wrath. <hi>A<g ref="char:EOLhyphen"/>nak,</hi> a Gyant. <hi>Anahim,</hi> a Fountain, <hi>or</hi> the
-<pb n="85" facs="tcp:001049_0085_0FAEF55049F842E8"/>
+<pb n="85" facs="unknown:001049_0085_0FAEF55049F842E8"/>
 Eye of Waters. <hi>Ananiah,</hi> the Cloud of the Lord, <hi>or</hi> the Deliverance of the Lord. <hi>An<g ref="char:EOLhyphen"/>drew,</hi> very strong and manly. <hi>Andr<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>ni<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -2856,7 +2856,7 @@ Eye of Waters. <hi>Ananiah,</hi> the Cloud of the Lord, <hi>or</hi> the Delivera
                      <hi>Barra<g ref="char:EOLhyphen"/>bas,</hi> the son of Confusion. <hi>Barachel,</hi> blessing, <hi>or</hi> speaking well of God, <hi>or</hi> bowing the Knee to God. <hi>Baruch,</hi> blessed, <hi>Bathsheba.</hi> the se<g ref="char:EOLhyphen"/>seventh Daughter. <hi>Bathshua,</hi> the Daughter of Salvation. <hi>Becher,</hi> the first begotten, <hi>or</hi> first Fruits. <hi>Ben,</hi> a Son, or Building. <hi>Bena<g ref="char:EOLhyphen"/>jath,</hi> the Lords Building. <hi>Benj<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>min,</hi> the Son of my right hand; <hi>Jacob</hi>'s youngest Son, called
-<pb n="86" facs="tcp:001049_0086_0FAEF551447649C8"/>
+<pb n="86" facs="unknown:001049_0086_0FAEF551447649C8"/>
                      <hi>Benoni; that is,</hi> the son of Sorrow; Iacob <hi>loved him. Berachiah,</hi> speaking well of the Lord<g ref="char:punc">▪</g> 
                      <hi>Berasah,</hi> the choosing of the Lord. <hi>Be<g ref="char:EOLhyphen"/>sodaiah,</hi> the Counsel of the Lord. <hi>Bethamath,</hi> the House of affliction. <hi>Bethaven,</hi> the house of Vanity and Grief. <hi>Bethazmaveth,</hi> the House of Deaths Strength. <hi>Bethpirei,</hi> the house of my Maker. <hi>Bethcar,</hi> the house of Knowledge. <hi>Betheden,</hi> the house of Pleasure. <hi>Bethel,</hi> the house of God. <hi>Bethemeck,</hi> the house of Deep<g ref="char:EOLhyphen"/>ness. <hi>Bethesda,</hi> the house of Effusion. <hi>Betha<g ref="char:EOLhyphen"/>nan,</hi> the house of Grace, <hi>or</hi> Mercy. <hi>Bethhath<g ref="char:EOLhyphen"/>shittah,</hi> the house of going out of the way, <hi>or</hi> the house of Thorns. <hi>Bethlehem,</hi> the house of Bread, <hi>or</hi> the house of War; <hi>a City in the Tribe of</hi> Zebulon, <hi>also a City in the Tribe of</hi> Iuda, <hi>called</hi> Ephrath, <hi>near unto which</hi> Rach<g ref="char:EOLhyphen"/>el <hi>was buried, and unto which</hi> Ioseph <hi>travel<g ref="char:EOLhyphen"/>led with</hi> Mary, <hi>the Mother of Jesus, where she was delivered of Jesus Christ; where the wise Men went and honoured him. Bathmar<g ref="char:EOLhyphen"/>caboth,</hi> the house of bitterness wiped out <hi>Bethnimrah,</hi> the house of Rebellion. <hi>Bethuel,</hi> the Measure of God, <hi>the Father of</hi> Rebekah. <hi>Bethula,</hi> the Virgin of the Lord. <hi>Bezaleel,</hi> in the shadow of God, <hi>he was a man mightily endued with the Spirit of God. Boaz,</hi> in strength or Power. <hi>Boochim,</hi> the place of weeping. <hi>Boanerges,</hi> the Sons of Thunder.</p>
                </div>
@@ -2864,7 +2864,7 @@ Eye of Waters. <hi>Ananiah,</hi> the Cloud of the Lord, <hi>or</hi> the Delivera
                   <head>C</head>
                   <p>
                      <hi>Caleb,</hi> as an heart. <hi>Caiaphas,</hi> a Searcher<g ref="char:punc">▪</g>
-                     <pb n="87" facs="tcp:001049_0087_0FAEF553C8C7ECC0"/>
+                     <pb n="87" facs="unknown:001049_0087_0FAEF553C8C7ECC0"/>
                      <hi>Canaan,</hi> a Merchant. <hi>Chileab,</hi> the Restraint of the Father, <hi>Christ,</hi> anointed <hi>Clement</hi>
                      <g ref="char:punc">▪</g> Gentle, <hi>or</hi> Meek <hi>Cleophas,</hi> all Glory. <hi>Cle<g ref="char:EOLhyphen"/>opatra,</hi> the glory of the Country. <hi>Co<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
@@ -2891,7 +2891,7 @@ Eye of Waters. <hi>Ananiah,</hi> the Cloud of the Lord, <hi>or</hi> the Delivera
                   <head>G</head>
                   <p>
                      <hi>Gabriel,</hi> a man of God. <hi>Gamaliel, God</hi>'s
-<pb n="88" facs="tcp:001049_0088_0FAEF554CDED8188"/>
+<pb n="88" facs="unknown:001049_0088_0FAEF554CDED8188"/>
 Reward.</p>
                </div>
                <div n="H" type="section">
@@ -2911,7 +2911,7 @@ Reward.</p>
                         </gap>l,</hi> the Work of <hi>God. Jaasoniah,</hi> the hearkening of the <hi>Lord. Jabal,</hi> bringing <hi>or</hi> budding. <hi>Jabesh,</hi> drought. <hi>Jabiz, Sorr<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>w. Jabin,</hi> Understanding. <hi>Jachim,</hi> Stability. Ja<g ref="char:EOLhyphen"/>diah, knowing the <hi>Lord. Jahallel,</hi> praising <hi>God. Jabohel,</hi> waiting for God, <hi>or</hi> beseech<g ref="char:EOLhyphen"/>ing God, <hi>or</hi> hope in God, <hi>or</hi> beginning in God. <hi>Jamuel, God</hi> in his <hi>day. Jasher,</hi> Righteous. <hi>Jatter,</hi> a remnant, <hi>or</hi> excellent. <hi>Ichabod,</hi> Where is glory? <hi>Jeconiah,</hi> stability of the <hi>Lord. Jedaiah,</hi> the hand <hi>of</hi> the Lord, <hi>or</hi> confessing the <hi>Lord. Jedidiah,</hi> beloved. <hi>Jedi<g ref="char:EOLhyphen"/>el,</hi> Knowledge of <hi>God. Jehiah,</hi> the Lord li<g ref="char:EOLhyphen"/>veth.
-<pb n="89" facs="tcp:001049_0089_0FAEF55589275E58"/>
+<pb n="89" facs="unknown:001049_0089_0FAEF55589275E58"/>
                      <hi>Jehiel,</hi> God liveth. <hi>Jehoadan,</hi> the Lords Pleasure, <hi>Jehoahas,</hi> the Possession of the Lord. <hi>Jehoash,</hi> the fire of the Lord. <hi>Jehohanan,</hi> Gra<g ref="char:EOLhyphen"/>ce <hi>or</hi> Mercy of the Lord. <hi>Jehoiakim,</hi> the rising or avenging of the Lord. <hi>Jehoshaphat,</hi> the Lord is the Iudge. <hi>Jehoshuah,</hi> the Lords Salvation. <hi>Jehozadak,</hi> the Iustice of the Lord. <hi>Jekannah,</hi> the Lord shall arise, establish <hi>or</hi> avenge. <hi>Jera<g ref="char:EOLhyphen"/>meel,</hi> the mercy of God. <hi>Jeriel,</hi> the fear of God. <hi>Jerimoth,</hi> fearing Death. <hi>Jeroboam,</hi> encreasing the People. <hi>Igdaliah,</hi> the greatness of the Lord. <hi>Joel,</hi> willing, <hi>or</hi> beginning. <hi>Jonah,</hi> a Dove. <hi>Jo<g ref="char:EOLhyphen"/>nathan,</hi> the gift of the Lord. <hi>Joshabeth,</hi> the fulness of the Lord. <hi>Ishmael,</hi> God hath heard.</p>
                </div>
                <div n="K" type="section">
@@ -2929,7 +2929,7 @@ Reward.</p>
                   <head>M</head>
                   <p>
                      <hi>Maadiah,</hi> Pleasantness, <hi>or</hi> decking of the Lord, <hi>or</hi> Testimony, <hi>or</hi> Covenant of the Lord, <hi>Mahseiah,</hi> the Protection of the Lord. <hi>Maa<g ref="char:EOLhyphen"/>ziah,</hi> the strength of the Lord. <hi>Machbanai,</hi> my poor Son. <hi>Madan,</hi> Strife, <hi>Magdalen,</hi>
-                     <pb n="90" facs="tcp:001049_0090_0FAEF55656603DB0"/>
+                     <pb n="90" facs="unknown:001049_0090_0FAEF55656603DB0"/>
 magnified <hi>or</hi> exalted. <hi>Magdiel,</hi> preaching God. <hi>Mahalan,</hi> infirmity <hi>or</hi> weakness. <hi>Magog,</hi> covering <hi>or</hi> melting. <hi>Malachi,</hi> my Messenger. <hi>Mahaleel,</hi> praising God, <hi>Menahem,</hi> a Com<g ref="char:EOLhyphen"/>forter. <hi>Manoach,</hi> Rest. <hi>M<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>on,</hi> dwelling place. <hi>Martha,</hi> bitter <hi>or</hi> provoking. <hi>Mattan,</hi> a gift. <hi>Ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2950,7 +2950,7 @@ magnified <hi>or</hi> exalted. <hi>Magdiel,</hi> preaching God. <hi>Mahalan,</hi
                         </gap>ds,</hi> or <hi>Fruits,</hi> or <hi>Prophecies.</hi> Nabal, <hi>a Fool.</hi> N<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>both, <hi>a Speech, Prophecy,</hi> of <hi>budding forth</hi>; he re<g ref="char:EOLhyphen"/>fused to sell <hi>Ahab</hi> his Vineyard, and therefore was stoned by <hi>Iezebels</hi> wicked practice. Na<g ref="char:EOLhyphen"/>dab,
-<pb n="91" facs="tcp:001049_0091_0FAEF5570704A950"/>
+<pb n="91" facs="unknown:001049_0091_0FAEF5570704A950"/>
                      <hi>a Prince,</hi> or <hi>liberal.</hi> Nahas, <hi>a Snake</hi> or <hi>Serpent.</hi> Nahoi, <hi>very secret,</hi> or <hi>hid, my be<g ref="char:EOLhyphen"/>loved,</hi> or <hi>wrestling with me.</hi> Najah, <hi>Fairness, Beauty, Comeliness.</hi> Nathan, <hi>given</hi> or <hi>reward<g ref="char:EOLhyphen"/>ed.</hi> Naphtali, <hi>my wrestling.</hi> Nathaniel, <hi>the gift of God.</hi> Nazareth, <hi>separated, crowned,</hi> or <hi>sanctified</hi>; the City where Christ was brought up. Nehelamite, <hi>a Dreamer.</hi> Nehe<g ref="char:EOLhyphen"/>miah, <hi>Comfort,</hi> or <hi>the Rest of the Lord,</hi> or <hi>Direction of the Lord.</hi> Netias, <hi>the Light,</hi> or <hi>Candle of the Lord.</hi> Nicodemus, <hi>innocent Blood</hi>; he was a Ruler among the <hi>Iews,</hi> and one that came to Christ by Night to be taught of him. Nicholas, <hi>a Victor,</hi> or <hi>Overcomer.</hi> Nineveh, <hi>fair, beautiful,</hi> or <hi>a dwelling place:</hi> the name of a City; the Desolation whereof was Prophesied, but they repented after <hi>Ionas</hi> preached to them. Noah, <hi>a ceasing</hi> or <hi>rest</hi>; he was Son to <hi>Lamech,</hi> he was a Preacher of Righteousness; he was commanded of God to make an Ark, that he and his Family should enter in to it, for their Preservation.</p>
                </div>
                <div n="O" type="section">
@@ -2959,7 +2959,7 @@ magnified <hi>or</hi> exalted. <hi>Magdiel,</hi> preaching God. <hi>Mahalan,</hi
                      <hi>Obadiah,</hi> Servant of the Lord; <hi>he was a Prophet. Obed,</hi> a Servant <hi>or</hi> Workman. <hi>Obed<g ref="char:EOLhyphen"/>edom,</hi> the Servant of <hi>Edom. Obil,</hi> born <hi>or</hi> brought. <hi>Onam,</hi> Sorrow. <hi>Ophel,</hi> a Tower, <hi>or</hi> Darkness. <hi>Othni,</hi> my Time. <hi>Othoniel,</hi> the Time of God. <hi>Ozaziah,</hi> the Strength of the Lord. <hi>Oziel,</hi> the help of God.</p>
                </div>
                <div n="P" type="section">
-                  <pb n="92" facs="tcp:001049_0092_0FAEF55809FFF790"/>
+                  <pb n="92" facs="unknown:001049_0092_0FAEF55809FFF790"/>
                   <head>P</head>
                   <p>
                      <hi>Pagiel,</hi> God hath met. <hi>Pashur,</hi> encreasing liberty. <hi>Ped<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2976,7 +2976,7 @@ magnified <hi>or</hi> exalted. <hi>Magdiel,</hi> preaching God. <hi>Mahalan,</hi
                   <head>S</head>
                   <p>
                      <hi>Sabbaoth,</hi> Rest. <hi>Sabdi,</hi> a Dowry. <hi>Sarai,</hi> my Dame <hi>or</hi> Mistress; <hi>the Name of</hi> Abraham<hi>'s Wife before it was</hi> changed. <hi>Seled,</hi> Affliction. <hi>Semachiah,</hi> cleaving to the Lord. <hi>Shalmon,</hi> peaceable. <hi>Shamah,</hi> Desolation <hi>or</hi> Destruction. <hi>Shelathiel,</hi> asked of God. <hi>Shearjah,</hi> the gate of the Lord. <hi>Sebarim,</hi> Hope. <hi>Shecanjah,</hi> the
-<pb n="93" facs="tcp:001049_0093_0FAEF55A98300FF8"/>
+<pb n="93" facs="unknown:001049_0093_0FAEF55A98300FF8"/>
 Habitation of the Lord. <hi>Shechem,</hi> a Part, <hi>or</hi> Por<g ref="char:EOLhyphen"/>tion. <hi>Shedur,</hi> a Field of Fire, <hi>or</hi> the light of the Almighty. <hi>Shebarjah,</hi> the Morning of <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>he Lord. <hi>Snelemjah,</hi> Peace of the Lord. <hi>Sh<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -3003,7 +3003,7 @@ Habitation of the Lord. <hi>Shechem,</hi> a Part, <hi>or</hi> Por<g ref="char:EO
                      <hi>Zaven,</hi> Trembling. <hi>Zadad,</hi> a Dowry. <hi>Za<g ref="char:EOLhyphen"/>badjay,</hi> a Dowry of the Lord. <hi>Zachai,</hi> pure. <hi>Zachariah,</hi> mindful of the Lord. <hi>Zebulum,</hi> dwelling. <hi>Zelophehad,</hi> a shadow of fear. <hi>Ze<g ref="char:EOLhyphen"/>phaniah,</hi> the hiding of the Lord. <hi>Zephi,</hi> a Honey comb. <hi>Zerah,</hi> Clearness, <hi>or</hi> rising up. <hi>Zerajah,</hi> the Lord arising. <hi>Zedekiah,</hi> the Iu<g ref="char:EOLhyphen"/>stice of the Lord. <hi>Zuriel,</hi> the Rock of God. <hi>Zurishidai,</hi> the Rock of the Almighty.</p>
                </div>
                <div type="section">
-                  <pb n="94" facs="tcp:001049_0094_0FAEF55B80767050"/>
+                  <pb n="94" facs="unknown:001049_0094_0FAEF55B80767050"/>
                   <p>
                      <hi>Independency</hi> (Latin) a not depending upon another, absoluteness, of ones self: But it is commonly taken for that Profession, or Sect of men, who manage all things belonging to Church Discipline, within their own Congre<g ref="char:EOLhyphen"/>gations, and allow not of a Dependence on a National Church.</p>
                   <p>
@@ -3018,7 +3018,7 @@ Habitation of the Lord. <hi>Shechem,</hi> a Part, <hi>or</hi> Por<g ref="char:EO
                </div>
             </div>
             <div type="part">
-               <pb n="95" facs="tcp:001049_0095_0FAEF55C72AA8CF0"/>
+               <pb n="95" facs="unknown:001049_0095_0FAEF55C72AA8CF0"/>
                <head>Seven Numeral Letters.</head>
                <list>
                   <item>One—I</item>
@@ -3094,7 +3094,7 @@ Habitation of the Lord. <hi>Shechem,</hi> a Part, <hi>or</hi> Por<g ref="char:EO
                   <hi>Eleven</hi> XI. <hi>Twelve</hi> XII. <hi>Thirteen</hi> XIII. <hi>Fourteen</hi> XIV. <hi>Fifteen</hi> XV. <hi>Sixteen</hi> XVI. <hi>Seventeen</hi> XVII. <hi>Eighteen</hi> XVIII. <hi>Nineteen</hi> XIX.</p>
             </div>
             <div type="part">
-               <pb n="96" facs="tcp:001049_0096_0FAEF55D0A335FB8"/>
+               <pb n="96" facs="unknown:001049_0096_0FAEF55D0A335FB8"/>
                <head>The <hi>Table</hi> of <hi>Numeration,</hi> whereby any Num<g ref="char:EOLhyphen"/>ber may be expressed.</head>
                <list>
                   <item>I One 1</item>
@@ -3175,7 +3175,7 @@ Habitation of the Lord. <hi>Shechem,</hi> a Part, <hi>or</hi> Por<g ref="char:EO
                <p>999 Millions 999 Thousand 999 Nine.</p>
             </div>
             <div type="part">
-               <pb n="97" facs="tcp:001049_0097_0FAEF55DCD21E0A0"/>
+               <pb n="97" facs="unknown:001049_0097_0FAEF55DCD21E0A0"/>
                <head>The Table of <hi>Multiplication.</hi>
                </head>
                <p>
@@ -3483,7 +3483,7 @@ Habitation of the Lord. <hi>Shechem,</hi> a Part, <hi>or</hi> Por<g ref="char:EO
             <div type="part">
                <head>Concerning <hi>Weights, Measures,</hi> &amp;c.</head>
                <p>THere are two kinds of Weights used in <hi>England,</hi> as, <hi>Troy</hi> and <hi>Averdupois</hi>; By <hi>Troy</hi> Weight, Gold &amp; Silver is weighed; <hi>Troy</hi>
-                  <pb n="98" facs="tcp:001049_0098_0FAEF55E87DAF4B0"/>
+                  <pb n="98" facs="unknown:001049_0098_0FAEF55E87DAF4B0"/>
 Weight contains in every Pound twelve Oun<g ref="char:EOLhyphen"/>ces, in every Ounce twenty Peny weight, in e<g ref="char:EOLhyphen"/>very Peny weight twenty four Grains.</p>
                <p>By <hi>Averdupois</hi> Weight is weighed all Gro<g ref="char:EOLhyphen"/>cery Ware, all Drugs and Iron, Lead and Tin <hi>&amp;c.</hi> and it contains sixteen Ounces to the Pound, twenty eight Pounds make one quarter of a Hundred, fifty six Pounds make two quar<g ref="char:EOLhyphen"/>ters, eighty four Pounds three quarters, a hund<g ref="char:EOLunhyphen"/>red and twelve Pounds make one Hundred weight, and twenty Hundreds make one Tun</p>
                <p>In dry Measure, sixteen Pints make one Peck, and four Pecks make one Bushel.</p>
@@ -3495,7 +3495,7 @@ Weight contains in every Pound twelve Oun<g ref="char:EOLhyphen"/>ces, in every 
                   </gap>ne Inch, twelve Inches a Foot<g ref="char:punc">▪</g> three Feet Yard, five Yards and a half a <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>earch; forty Pearches in length and four in breadth make an Acre, four in breadth and ten in length make a Rood, which is a
-<pb n="99" facs="tcp:001049_0099_0FAEF55F877A8530"/>
+<pb n="99" facs="unknown:001049_0099_0FAEF55F877A8530"/>
 quarter of an Acre, so that an Acre <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>hath forty three thousand five hundred and sixty square Feet, four thousand eight hundred and fourty square Yards. Eight Furlongs is an <hi>English</hi> Mile, fourty Poles is a Furlong, sixteen Foot and a half make one Pole, three feet make one Yard· The compass of the Earth is suppo<g ref="char:EOLhyphen"/>sed to be three hundred and sixty degrees, or one and twenty thousand and seven hundred <hi>Italian</hi> Miles.</p>
@@ -3545,7 +3545,7 @@ quarter of an Acre, so that an Acre <gap reason="illegible" resp="#PDCC" extent=
                      </row>
                      <row>
                         <cell>
-                           <pb n="100" facs="tcp:001049_0100_0FAEF434A56B8F30"/>For a Groat</cell>
+                           <pb n="100" facs="unknown:001049_0100_0FAEF434A56B8F30"/>For a Groat</cell>
                         <cell>000</cell>
                         <cell>00</cell>
                         <cell>04</cell>
@@ -3707,7 +3707,7 @@ quarter of an Acre, so that an Acre <gap reason="illegible" resp="#PDCC" extent=
                <p>Note that <hi>l.</hi> stands over Pounds, <hi>s.</hi> over Shil<g ref="char:EOLhyphen"/>lings, <hi>d.</hi> over Pence, and <hi>q.</hi> over Farthings.</p>
             </div>
             <div type="part">
-               <pb n="101" facs="tcp:001049_0101_0FAEF434C8D2DD88"/>
+               <pb n="101" facs="unknown:001049_0101_0FAEF434C8D2DD88"/>
                <head>The Significations of divers Words commonly used, but hard to be understood.</head>
                <p>
                   <hi>BIble,</hi> (Greek) containing several Books. <hi>Evangelist,</hi> (Greek) a bringer of glad Tidings, a Preacher of the Gospel.</p>
@@ -3723,7 +3723,7 @@ quarter of an Acre, so that an Acre <gap reason="illegible" resp="#PDCC" extent=
                   <hi>Embolism,</hi> (Greek) signifieth a casting in of the day which is added to the Leap year.</p>
                <p>To find out the <hi>Epact</hi> of each year, do thus; To the <hi>Epact</hi> of the last year add 11· and the sum of these two make the <hi>Epact,</hi> if it sur<g ref="char:EOLhyphen"/>mount 30 then take 30 out, and that which rests above 30 is the <hi>Epact</hi> for that year.</p>
                <p>To know the age of the Moon by the <hi>Epact</hi>
-                  <pb n="102" facs="tcp:001049_0102_0FAEF43588C1A748"/>
+                  <pb n="102" facs="unknown:001049_0102_0FAEF43588C1A748"/>
 without an <hi>Almnack</hi>; add the days of the Month wherein thou wouldst know the <hi>Ep<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>ct</hi>; and as many daies more as are Months from the first Month called <hi>March,</hi> to that Month, including both Months, out of the which substract 30 as often as may be, the age re<g ref="char:EOLhyphen"/>maineth; if nothing remain, the Moon chang<g ref="char:EOLhyphen"/>eth that day.</p>
@@ -3733,7 +3733,7 @@ without an <hi>Almnack</hi>; add the days of the Month wherein thou wouldst know
                <p>Note, That the <hi>Golden Number</hi> and <hi>Domi<g ref="char:EOLhyphen"/>nical Letter</hi> doth change every year the first day of the eleventh Month, and the <hi>Epact</hi> the first day of the first Month for ever; and the Year always begins the twenty fifth of the first Month.</p>
             </div>
             <div type="part">
-               <pb n="103" facs="tcp:001049_0103_0FAEF4365353EFE0"/>
+               <pb n="103" facs="unknown:001049_0103_0FAEF4365353EFE0"/>
                <head>A perpetual <hi>Almanack.</hi>
                </head>
                <p>
@@ -3867,7 +3867,7 @@ without an <hi>Almnack</hi>; add the days of the Month wherein thou wouldst know
                </p>
             </div>
             <div type="part">
-               <pb n="104" facs="tcp:001049_0104_0FAEF4370849A4A0"/>
+               <pb n="104" facs="unknown:001049_0104_0FAEF4370849A4A0"/>
                <head>THE EXPLANATION.</head>
                <p>IN the three upper Columns are the 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
